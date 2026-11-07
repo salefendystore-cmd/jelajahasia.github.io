@@ -2,6 +2,7 @@
 title: Samurai dan Zaman Edo
 description: Sejarah samurai dari kelas pahlawan hingga zaman Edo yang aman di bawah keshogunan Tokugawa, dan kemerosotan mereka selepas Pemulihan Meiji.
 category: sejarah-budaya
+negara: Jepun
 image: samurai-dan-zaman-edo.jpg
 imageAlt: heritage,  japan,  castle,  himeji
 credit: Foto oleh Nick115 di Pixabay

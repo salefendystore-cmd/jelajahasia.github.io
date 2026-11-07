@@ -2,6 +2,7 @@
 title: Budaya Minum Teh di Asia
 description: Perjalanan teh di Asia daripada asal usulnya di barat daya China hingga upacara teh Jepun, teh tarik Malaysia dan kebun teh Cameron Highlands.
 category: sejarah-budaya
+negara: China, Jepun, India, Malaysia
 image: budaya-minum-teh-di-asia.jpg
 imageAlt: green tea,  tea,  tea time,  herbal tea
 credit: Foto oleh Obaid47 di Pixabay

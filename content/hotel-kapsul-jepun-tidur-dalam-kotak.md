@@ -2,6 +2,7 @@
 title: Hotel Kapsul Jepun: Tidur Dalam Kotak
 description: Sejarah dan pengalaman menginap di hotel kapsul Jepun, daripada Capsule Inn Osaka 1979 hingga kapsul moden, serta tips etika, privasi dan siapa yang sesuai.
 category: fakta-menarik
+negara: Jepun
 image: hotel-kapsul-jepun-tidur-dalam-kotak.jpg
 imageAlt: beds,  youth hostel,  bunk beds,  sleep
 credit: Foto oleh Hans di Pixabay

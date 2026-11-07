@@ -2,6 +2,7 @@
 title: Kenapa Jepun Murah untuk Pelancong? Kesan Yen Lemah
 description: Penjelasan mengapa Jepun kelihatan murah kepada pelancong asing, daripada kelemahan yen, ledakan pelancong hingga perubahan sistem bebas cukai November 2026.
 category: ekonomi
+negara: Jepun
 image: kenapa-jepun-murah-untuk-pelancong-yen-lemah.jpg
 imageAlt: japan,  travel,  nature,  asia
 credit: Foto oleh sofi5t di Pixabay

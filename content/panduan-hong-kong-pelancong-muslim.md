@@ -2,6 +2,7 @@
 title: Panduan Hong Kong untuk Pelancong Muslim
 description: Panduan Hong Kong untuk pelancong Muslim, merangkumi masjid, makanan halal, tempat menarik, pengangkutan dan tips jimat untuk percutian 4 hari.
 category: destinasi
+negara: Hong Kong
 image: panduan-hong-kong-pelancong-muslim.jpg
 imageAlt: skyscrapers,  buildings,  harbor,  skyline
 credit: Foto oleh carloyuen di Pixabay

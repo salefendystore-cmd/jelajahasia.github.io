@@ -2,6 +2,7 @@
 title: Sejarah Angkor Wat dan Empayar Khmer
 description: Kisah Angkor Wat dan Empayar Khmer, daripada pembinaan pada abad ke-12 hingga kemerosotan dan pengiktirafan sebagai Tapak Warisan Dunia.
 category: sejarah-budaya
+negara: Kemboja
 image: sejarah-angkor-wat-empayar-khmer.jpg
 imageAlt: angkor wat,  temple,  towers,  sunrise
 credit: Foto oleh pen_ash di Pixabay

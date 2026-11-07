@@ -2,6 +2,7 @@
 title: Sejarah Borobudur
 description: Kisah Candi Borobudur, daripada pembinaannya di bawah dinasti Sailendra, tempoh terbiar, penemuan semula pada 1814 hingga pemuliharaan dan status warisan dunia.
 category: sejarah-budaya
+negara: Indonesia
 image: sejarah-borobudur.jpg
 imageAlt: indonesia,  temple,  borodundur,  sunrise
 credit: Foto oleh prometeus_86 di Pixabay

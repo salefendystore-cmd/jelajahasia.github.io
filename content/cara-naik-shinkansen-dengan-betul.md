@@ -2,6 +2,7 @@
 title: Cara Naik Shinkansen dengan Betul
 description: Panduan menaiki Shinkansen untuk pelancong, daripada memilih Nozomi, Hikari atau Kodama, membeli tiket, tempat duduk hingga peraturan bagasi besar.
 category: tips-travel
+negara: Jepun
 image: cara-naik-shinkansen-dengan-betul.jpg
 imageAlt: shinkansen,  bullet train,  railway station,  train station
 credit: Foto oleh ArminEP di Pixabay

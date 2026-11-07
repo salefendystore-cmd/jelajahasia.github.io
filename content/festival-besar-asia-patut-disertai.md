@@ -2,6 +2,7 @@
 title: Festival Besar di Asia yang Patut Anda Sertai
 description: Panduan festival besar di Asia seperti Songkran, Kumbh Mela, Durga Puja, Tahun Baru Cina, Hari Raya dan Thaipusam, dengan nota tentang pengiktirafan UNESCO dan etika menyertai.
 category: sejarah-budaya
+negara: Thailand, India, Malaysia
 image: festival-besar-asia-patut-disertai.jpg
 imageAlt: lantern,  festival,  decoration,  traditional
 credit: Foto oleh airtank di Pixabay

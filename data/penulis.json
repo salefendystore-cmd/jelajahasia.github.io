@@ -1,0 +1,8 @@
+{
+  "meja-destinasi": { "nama": "Meja Destinasi", "jenis": "meja", "peranan": "Pasukan editorial", "bio": "Pasukan editorial yang menyediakan panduan dan itinerari ke destinasi Asia berdasarkan sumber rasmi dan laporan pengembara." },
+  "meja-tips-travel": { "nama": "Meja Tips Travel", "jenis": "meja", "peranan": "Pasukan editorial", "bio": "Pasukan editorial yang menyusun helah, senarai semak dan strategi jimat untuk pengembara Malaysia." },
+  "meja-sejarah-budaya": { "nama": "Meja Sejarah & Budaya", "jenis": "meja", "peranan": "Pasukan editorial", "bio": "Pasukan editorial yang merujuk buku dan sumber sejarah untuk menulis kisah silam dan warisan Asia." },
+  "meja-ekonomi": { "nama": "Meja Ekonomi & Semasa", "jenis": "meja", "peranan": "Pasukan editorial", "bio": "Pasukan editorial yang menjejak perkembangan industri pelancongan dan kesannya kepada pengembara." },
+  "meja-personaliti": { "nama": "Meja Personaliti", "jenis": "meja", "peranan": "Pasukan editorial", "bio": "Pasukan editorial yang menulis kisah tokoh pengembara dan pengasas di sebalik industri travel." },
+  "meja-fakta-menarik": { "nama": "Meja Fakta Menarik", "jenis": "meja", "peranan": "Pasukan editorial", "bio": "Pasukan editorial yang mengumpul trivia dan perkara pelik dari seluruh Asia." }
+}

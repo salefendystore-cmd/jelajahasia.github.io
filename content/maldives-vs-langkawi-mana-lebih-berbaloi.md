@@ -2,6 +2,7 @@
 title: Maldives vs Langkawi: Mana Lebih Berbaloi?
 description: Perbandingan Maldives dan Langkawi untuk percutian pantai, merangkumi kos, jenis penginapan, aktiviti, alkohol, halal dan siapa yang sesuai memilih mana.
 category: destinasi
+negara: Maldives, Malaysia
 image: maldives-vs-langkawi-mana-lebih-berbaloi.jpg
 imageAlt: beach,  resort,  jetty,  pier
 credit: Foto oleh romaneau di Pixabay

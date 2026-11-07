@@ -2,6 +2,7 @@
 title: Ibn Battuta: Pengembara Terhebat Dunia Islam
 description: Kisah Ibn Battuta, pengembara Maghribi abad ke-14 yang menempuh perjalanan puluhan tahun merentasi Afrika, Timur Tengah dan Asia.
 category: personaliti
+negara: India, Maldives, Indonesia, China
 image: ibn-battuta-pengembara-terhebat.jpg
 imageAlt: adventure,  treasure map,  old world map,  pirates
 credit: Foto oleh MasterTux di Pixabay

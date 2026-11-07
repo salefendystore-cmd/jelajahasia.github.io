@@ -2,6 +2,7 @@
 title: Menjelajah Kyoto: Kuil, Kimono dan Kafe Tersembunyi
 description: Panduan Kyoto untuk pelancong, merangkumi tapak warisan UNESCO, Fushimi Inari, Arashiyama, Gion dan kafe tenang, dengan tips mengelak kesesakan dan etika.
 category: destinasi
+negara: Jepun
 image: menjelajah-kyoto-kuil-kimono-kafe.jpg
 imageAlt: japanese,  asia,  foliage,  ancient
 credit: Foto oleh derwiki di Pixabay

@@ -2,6 +2,7 @@
 title: Panduan ke Sabah: Kinabalu, Semporna dan Sandakan
 description: Panduan Sabah untuk pelancong tempatan dan asing, merangkumi Gunung Kinabalu, pulau Semporna dan hidupan liar Sandakan, dengan tips permit, cuaca dan perancangan.
 category: destinasi
+negara: Malaysia
 image: panduan-sabah-kinabalu-semporna-sandakan.jpg
 imageAlt: dawn,  mountain,  clouds,  kinabalu
 credit: Foto oleh KBaucherel di Pixabay

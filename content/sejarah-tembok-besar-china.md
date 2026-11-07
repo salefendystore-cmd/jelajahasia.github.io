@@ -2,6 +2,7 @@
 title: Kisah Tembok Besar China
 description: Sejarah Tembok Besar China daripada dinding tanah awal zaman Qin hingga binaan batu era Ming, panjang sebenar menurut tinjauan 2012 dan tips melawat Badaling serta Mutianyu.
 category: sejarah-budaya
+negara: China
 image: sejarah-tembok-besar-china.jpg
 imageAlt: great wall of china,  beijing,  china,  asia
 credit: Foto oleh viarami di Pixabay

@@ -2,6 +2,7 @@
 title: 10 Fakta Menarik tentang Singapura
 description: Sepuluh fakta menarik tentang Singapura, daripada budaya penjaja yang diiktiraf UNESCO, taman botani, empat bahasa rasmi hingga peraturan gula-gula getah.
 category: fakta-menarik
+negara: Singapura
 image: 10-fakta-menarik-tentang-singapura.jpg
 imageAlt: buildings,  skyline,  city lights,  night sky
 credit: Foto oleh zephylwer0 di Pixabay

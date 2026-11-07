@@ -2,6 +2,7 @@
 title: Itinerari 5 Hari di Seoul untuk Bajet Rendah
 description: Itinerari 5 hari Seoul yang jimat, merangkumi istana, pasar, kafe, pengangkutan murah dan tips makanan halal untuk pelancong Malaysia.
 category: destinasi
+negara: Korea Selatan
 image: itinerari-5-hari-seoul-bajet-rendah.jpg
 imageAlt: city,  buildings,  night view,  seoul
 credit: Foto oleh cskkkk di Pixabay

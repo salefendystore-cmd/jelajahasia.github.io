@@ -2,6 +2,7 @@
 title: Laluan Sutera: Jalan Perdagangan yang Mengubah Dunia
 description: Sejarah Laluan Sutera, rangkaian perdagangan yang menghubungkan China dengan dunia, serta kesannya terhadap budaya, agama dan teknologi.
 category: sejarah-budaya
+negara: China, Uzbekistan
 image: laluan-sutera-jalan-perdagangan.jpg
 imageAlt: camels,  sand dunes,  desert,  sahara
 credit: Foto oleh Wolfgang_Hasselmann di Pixabay

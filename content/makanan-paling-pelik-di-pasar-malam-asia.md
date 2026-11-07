@@ -2,6 +2,7 @@
 title: Makanan Paling Pelik di Pasar Malam Asia
 description: Pengenalan makanan pelik dan unik di pasar malam Asia seperti balut, telur seratus tahun, tauhu busuk dan natto, dengan nota tentang budaya, keselamatan makanan dan isu halal.
 category: fakta-menarik
+negara: Filipina, China, Taiwan, Jepun, Thailand, Kemboja
 image: makanan-paling-pelik-di-pasar-malam-asia.jpg
 imageAlt: night market,  crowd,  seafood,  taiwan
 credit: Foto oleh 3005398 di Pixabay

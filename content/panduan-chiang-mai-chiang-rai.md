@@ -2,6 +2,7 @@
 title: Panduan ke Chiang Mai dan Chiang Rai
 description: Panduan Utara Thailand merangkumi Chiang Mai, Doi Suthep, Kuil Putih Chiang Rai, pasar malam, festival lampion dan tips memilih lawatan gajah yang beretika.
 category: destinasi
+negara: Thailand
 image: panduan-chiang-mai-chiang-rai.jpg
 imageAlt: temple,  architecture,  building,  facade
 credit: Foto oleh Michelle-Maria di Pixabay

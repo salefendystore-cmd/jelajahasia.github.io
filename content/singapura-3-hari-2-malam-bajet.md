@@ -2,6 +2,7 @@
 title: Singapura 3 Hari 2 Malam Tanpa Pecah Bajet
 description: Itinerari Singapura 3 hari 2 malam yang jimat, merangkumi tarikan percuma, makanan hawker, pengangkutan dan peraturan yang perlu diketahui pelancong.
 category: destinasi
+negara: Singapura
 image: singapura-3-hari-2-malam-bajet.jpg
 imageAlt: city,  singapore,  marina bay sands,  buildings
 credit: Foto oleh Pexels di Pixabay

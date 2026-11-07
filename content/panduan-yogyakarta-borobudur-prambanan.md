@@ -2,6 +2,7 @@
 title: Panduan ke Yogyakarta dan Borobudur
 description: Panduan Yogyakarta untuk pelancong Malaysia, merangkumi Borobudur, Prambanan, Kraton, Malioboro dan Gunung Merapi, dengan tips tiket dan pengangkutan.
 category: destinasi
+negara: Indonesia
 image: panduan-yogyakarta-borobudur-prambanan.jpg
 imageAlt: temple,  candi prambanan,  candi rara jonggrang,  hindu temple
 credit: Foto oleh denysabri di Pixabay

@@ -2,6 +2,7 @@
 title: Bagaimana Pelancongan Thailand Pulih Selepas Pandemik
 description: Penjelasan pemulihan pelancongan Thailand selepas pandemik, daripada angka pelawat 2019 hingga penurunan 2025, persaingan serantau dan apa yang dijangka pada 2026.
 category: ekonomi
+negara: Thailand
 image: pelancongan-thailand-selepas-pandemik.jpg
 imageAlt: road,  asia,  thailand,  bangkok
 credit: Foto oleh viarami di Pixabay

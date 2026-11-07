@@ -2,6 +2,7 @@
 title: 10 Tempat Wajib Singgah di Bangkok Selain Pasar Malam
 description: Sepuluh tempat menarik di Bangkok, daripada kuil, muzium hingga taman dan lorong Chinatown, yang patut dilawati selain pasar malam yang terkenal.
 category: destinasi
+negara: Thailand
 image: 10-tempat-wajib-singgah-bangkok.jpg
 imageAlt: grand palace,  bangkok,  temple,  night
 credit: Foto oleh sasint di Pixabay

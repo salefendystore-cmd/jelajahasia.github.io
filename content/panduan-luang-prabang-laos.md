@@ -2,6 +2,7 @@
 title: Luang Prabang: Bandar Tenang di Laos
 description: Panduan Luang Prabang, bandar warisan dunia UNESCO di Laos, merangkumi kuil, pasar malam, air terjun Kuang Si, etika upacara sedekah sami dan tips pengangkutan.
 category: destinasi
+negara: Laos
 image: panduan-luang-prabang-laos.jpg
 imageAlt: waterfalls,  cascades,  nature,  river
 credit: Foto oleh Poswiecie di Pixabay

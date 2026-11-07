@@ -2,6 +2,7 @@
 title: Panduan Backpacker ke Vietnam: Hanoi ke Ho Chi Minh
 description: Laluan backpacker utara ke selatan di Vietnam, merangkumi Hanoi, Teluk Ha Long, Hue, Hoi An dan Ho Chi Minh, dengan tips visa, pengangkutan dan makanan.
 category: destinasi
+negara: Vietnam
 image: panduan-backpacker-vietnam-hanoi-ho-chi-minh.jpg
 imageAlt: person,  road,  nature,  street
 credit: Foto oleh trilemedia di Pixabay

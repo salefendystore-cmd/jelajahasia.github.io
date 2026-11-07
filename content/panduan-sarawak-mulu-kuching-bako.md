@@ -2,6 +2,7 @@
 title: Panduan ke Sarawak: Mulu, Kuching dan Bako
 description: Panduan Sarawak merangkumi Gunung Mulu, gua terbesar, Kuching bandar budaya dan Taman Negara Bako, dengan tips penerbangan, cuaca dan makanan.
 category: destinasi
+negara: Malaysia
 image: panduan-sarawak-mulu-kuching-bako.jpg
 imageAlt: masjid india,  floating mosque,  kuching,  sarawak
 credit: Foto oleh YoyChen di Pixabay

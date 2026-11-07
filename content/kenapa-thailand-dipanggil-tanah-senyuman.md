@@ -2,6 +2,7 @@
 title: Kenapa Thailand Dipanggil Tanah Senyuman?
 description: Asal usul gelaran Tanah Senyuman bagi Thailand, kaitannya dengan budaya, kempen pelancongan, serta hakikat bahawa senyuman Thai membawa pelbagai makna.
 category: fakta-menarik
+negara: Thailand
 image: kenapa-thailand-dipanggil-tanah-senyuman.jpg
 imageAlt: boy,  monk,  river,  buddhist
 credit: Foto oleh sasint di Pixabay

@@ -2,6 +2,7 @@
 title: Tenzing Norgay dan Sherpa Himalaya
 description: Kisah Tenzing Norgay, Sherpa yang bersama Edmund Hillary menawan puncak Everest pada 1953, dan peranan komuniti Sherpa dalam pendakian Himalaya.
 category: personaliti
+negara: Nepal, India
 image: tenzing-norgay-sherpa-himalaya.jpg
 imageAlt: mountains,  summit,  snow,  peak
 credit: Foto oleh Simon di Pixabay

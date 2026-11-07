@@ -2,6 +2,7 @@
 title: Bagaimana Syarikat Tambang Murah Mengubah Cara Kita Terbang
 description: Penjelasan model penerbangan tambang murah, bagaimana ia berfungsi, kisah AirAsia dari Malaysia, kesannya kepada pelancong dan perkara yang perlu diawasi.
 category: ekonomi
+negara: Malaysia
 image: bagaimana-tambang-murah-mengubah-cara-terbang.jpg
 imageAlt: virgin,  airline,  sky,  flight
 credit: Foto oleh bilaleldaou di Pixabay

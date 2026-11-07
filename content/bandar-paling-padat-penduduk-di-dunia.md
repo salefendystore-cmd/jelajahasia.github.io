@@ -2,6 +2,7 @@
 title: Bandar Paling Padat Penduduk di Dunia
 description: Penjelasan bandar paling padat penduduk, mengapa senarai berbeza bergantung pada cara mengukur, dengan contoh Dhaka, Manila, Mumbai dan Dharavi.
 category: fakta-menarik
+negara: India, Bangladesh, Filipina
 image: bandar-paling-padat-penduduk-di-dunia.jpg
 imageAlt: india,  mumbai,  bombay,  taxi
 credit: Foto oleh Simon di Pixabay

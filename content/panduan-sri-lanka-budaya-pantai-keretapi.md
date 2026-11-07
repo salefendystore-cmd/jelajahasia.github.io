@@ -2,6 +2,7 @@
 title: Panduan ke Sri Lanka: Teh, Pantai dan Gajah
 description: Panduan Sri Lanka merangkumi Sigiriya, Kandy, Ella, keretapi tanah tinggi, safari Yala dan pantai selatan, serta peringatan tentang ETA dan syarat masuk.
 category: destinasi
+negara: Sri Lanka
 image: panduan-sri-lanka-budaya-pantai-keretapi.jpg
 imageAlt: srilanka,  ella,  landscape,  hill
 credit: Foto oleh amanjahemal di Pixabay

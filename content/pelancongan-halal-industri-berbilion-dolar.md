@@ -2,6 +2,7 @@
 title: Pelancongan Halal: Industri Berbilion Dolar
 description: Penjelasan pelancongan mesra Muslim, saiz pasaran, destinasi pilihan seperti Malaysia dan Indonesia, serta peluang dan cabaran bagi pelancong dan industri.
 category: ekonomi
+negara: Malaysia, Indonesia, Jepun
 image: pelancongan-halal-industri-berbilion-dolar.jpg
 imageAlt: mosque,  minarets,  architecture,  hagia sophia
 credit: Foto oleh sofdoug di Pixabay

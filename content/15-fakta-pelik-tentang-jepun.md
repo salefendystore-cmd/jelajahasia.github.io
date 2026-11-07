@@ -2,6 +2,7 @@
 title: 15 Fakta Pelik tentang Jepun
 description: Lima belas fakta pelik dan menarik tentang Jepun, daripada mesin layan diri, adat tanpa tip hingga keretapi yang amat tepat masa.
 category: fakta-menarik
+negara: Jepun
 image: 15-fakta-pelik-tentang-jepun.jpg
 imageAlt: japan,  vending machine,  fireworks,  beauty
 credit: Foto oleh MaximilianHemon di Pixabay

@@ -2,6 +2,7 @@
 title: Kereta Api Laju Asia Mengubah Perjalanan
 description: Sejarah dan perkembangan kereta api laju di Asia, daripada Shinkansen 1964 dan rangkaian China hingga Whoosh di Indonesia, dengan nota tentang projek KL-Singapura yang dibatalkan.
 category: ekonomi
+negara: Jepun, China, Indonesia, Taiwan, Laos
 image: kereta-api-laju-asia-mengubah-perjalanan.jpg
 imageAlt: chinese,  high speed,  train,  model
 credit: Foto oleh RichardMc di Pixabay

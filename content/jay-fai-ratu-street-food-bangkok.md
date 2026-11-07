@@ -2,6 +2,7 @@
 title: Jay Fai: Ratu Street Food Bangkok
 description: Kisah Jay Fai (Supinya Junsuta), tukang masak jalanan Bangkok yang memenangi bintang Michelin pertama untuk gerai tepi jalan, dikenali dengan cermin mata pelindung dan telur dadar ketam.
 category: personaliti
+negara: Thailand
 image: jay-fai-ratu-street-food-bangkok.jpg
 imageAlt: city,  bangkok,  night,  city scape
 credit: Foto oleh Tik_Pitak di Pixabay

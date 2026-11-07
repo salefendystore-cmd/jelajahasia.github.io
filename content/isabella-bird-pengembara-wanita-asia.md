@@ -2,6 +2,7 @@
 title: Isabella Bird: Pengembara Wanita Era Victoria di Asia
 description: Kisah Isabella Bird (1831 hingga 1904), pengembara British yang menulis tentang Jepun, Semenanjung Tanah Melayu dan banyak lagi, serta pengiktirafan Royal Geographical Society.
 category: personaliti
+negara: Jepun, Malaysia
 image: isabella-bird-pengembara-wanita-asia.jpg
 imageAlt: compass,  map,  wallpaper hd,  4k wallpaper
 credit: Foto oleh Ylanite di Pixabay

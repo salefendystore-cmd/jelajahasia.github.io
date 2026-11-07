@@ -2,6 +2,7 @@
 title: Marco Polo di Asia: Fakta dan Mitos
 description: Kisah pengembara Venice Marco Polo, perjalanannya ke istana Kublai Khan, buku Il Milione, dan perdebatan sarjana sama ada beliau benar-benar sampai ke China.
 category: personaliti
+negara: China, Indonesia
 image: marco-polo-di-asia-fakta-dan-mitos.jpg
 imageAlt: venice,  architecture,  buildings,  channel
 credit: Foto oleh garten-gg di Pixabay

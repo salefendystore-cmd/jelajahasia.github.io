@@ -2,6 +2,7 @@
 title: Kenapa Lapangan Terbang Changi Antara Terbaik di Dunia
 description: Penjelasan mengapa Changi Singapura sering dinobatkan lapangan terbang terbaik, daripada anugerah Skytrax, Jewel dan Rain Vortex hingga tips transit.
 category: ekonomi
+negara: Singapura
 image: kenapa-lapangan-terbang-changi-antara-terbaik.jpg
 imageAlt: architecture,  airport,  changi,  building
 credit: Foto oleh Time1337 di Pixabay

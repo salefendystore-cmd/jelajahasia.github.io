@@ -2,6 +2,7 @@
 title: Panduan ke Nepal: Kathmandu dan Pokhara
 description: Panduan Nepal untuk pelancong Malaysia, merangkumi Kathmandu, Pokhara, tapak warisan dunia, visa, trek pergunungan dan tips menyesuaikan diri dengan altitud.
 category: destinasi
+negara: Nepal
 image: panduan-nepal-kathmandu-pokhara.jpg
 imageAlt: temple,  palace,  durbar square,  street
 credit: Foto oleh 10914001 di Pixabay

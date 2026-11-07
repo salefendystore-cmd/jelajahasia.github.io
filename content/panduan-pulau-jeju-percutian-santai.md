@@ -2,6 +2,7 @@
 title: Pulau Jeju: Panduan Percutian Santai
 description: Panduan Jeju, pulau gunung berapi Korea Selatan, merangkumi tapak UNESCO, Hallasan, Seongsan Ilchulbong, penyelam wanita haenyeo dan tips perjalanan.
 category: destinasi
+negara: Korea Selatan
 image: panduan-pulau-jeju-percutian-santai.jpg
 imageAlt: cheonjiyeon falls,  jeju island,  jeju cheonjiyeon waterfall,  cheonjiyeon falls
 credit: Foto oleh REXLUNA di Pixabay

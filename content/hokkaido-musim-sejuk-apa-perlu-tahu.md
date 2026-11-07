@@ -2,6 +2,7 @@
 title: Hokkaido Musim Sejuk: Apa yang Perlu Anda Tahu
 description: Panduan Hokkaido pada musim sejuk, merangkumi Festival Salji Sapporo, Otaru, ski, pakaian, pengangkutan dan tips selamat berjalan di atas ais dan salji.
 category: destinasi
+negara: Jepun
 image: hokkaido-musim-sejuk-apa-perlu-tahu.jpg
 imageAlt: snow,  winter,  nature,  landscape
 credit: Foto oleh pen_ash di Pixabay

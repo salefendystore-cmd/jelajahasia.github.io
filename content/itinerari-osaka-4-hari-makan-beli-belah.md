@@ -2,6 +2,7 @@
 title: Osaka 4 Hari: Makan, Beli-belah dan Universal Studios
 description: Itinerari Osaka 4 hari merangkumi Istana Osaka, Dotonbori, makanan tempatan, Universal Studios Japan dan tips makanan halal serta pengangkutan.
 category: destinasi
+negara: Jepun
 image: itinerari-osaka-4-hari-makan-beli-belah.jpg
 imageAlt: japan,  osaka,  dotombori,  night sky
 credit: Foto oleh gabyobs di Pixabay

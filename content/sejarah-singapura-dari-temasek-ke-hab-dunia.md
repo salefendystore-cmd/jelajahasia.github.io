@@ -2,6 +2,7 @@
 title: Sejarah Singapura: Dari Temasek ke Hab Dunia
 description: Perjalanan Singapura daripada pelabuhan lama bernama Temasek, pengasasan British 1819, pendudukan Jepun hingga kemerdekaan 1965 dan menjadi hab global.
 category: sejarah-budaya
+negara: Singapura
 image: sejarah-singapura-dari-temasek-ke-hab-dunia.jpg
 imageAlt: singapore,  nature,  merlion park,  asia
 credit: Foto oleh Graham-H di Pixabay

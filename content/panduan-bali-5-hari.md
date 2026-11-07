@@ -2,6 +2,7 @@
 title: Apa Nak Buat di Bali Selama 5 Hari
 description: Itinerari 5 hari di Bali merangkumi Ubud, Uluwatu, Tanah Lot dan pantai, dengan tips pengangkutan, cukai pelancong dan etika di pulau ini.
 category: destinasi
+negara: Indonesia
 image: panduan-bali-5-hari.jpg
 imageAlt: rice,  rice terrace,  terraces,  agriculture
 credit: Foto oleh DaFranzos di Pixabay

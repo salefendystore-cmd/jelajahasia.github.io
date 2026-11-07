@@ -2,6 +2,7 @@
 title: Kereta Api Paling Cantik di Asia
 description: Pilihan perjalanan keretapi yang dikenali kerana pemandangan di Asia, termasuk Darjeeling Himalayan Railway, Kandy ke Ella di Sri Lanka dan Viaduk Gokteik di Myanmar.
 category: fakta-menarik
+negara: India, Sri Lanka, Myanmar
 image: kereta-api-paling-cantik-di-asia.jpg
 imageAlt: darjeeling,  himalayan,  railway,  toy
 credit: Foto oleh donvikro di Pixabay

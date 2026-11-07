@@ -2,6 +2,7 @@
 title: Laksamana Cheng Ho dan Pelayaran Agungnya
 description: Kisah Laksamana Cheng Ho (Zheng He), pelayar Muslim dari Dinasti Ming yang memimpin tujuh pelayaran besar ke Asia Tenggara, India dan Afrika.
 category: personaliti
+negara: China, Malaysia, Indonesia
 image: laksamana-cheng-ho-pelayaran-agung.jpg
 imageAlt: sunset,  ship,  sails,  nature
 credit: Foto oleh 851878 di Pixabay

@@ -2,6 +2,7 @@
 title: Visa Digital Nomad di Asia: Negara Mana Paling Berbaloi?
 description: Perbandingan visa untuk pekerja jarak jauh di Malaysia, Thailand, Jepun dan Indonesia, termasuk syarat pendapatan, tempoh dan peringatan bahawa peraturan sering berubah.
 category: ekonomi
+negara: Malaysia, Thailand, Jepun, Indonesia
 image: visa-digital-nomad-di-asia-negara-mana-berbaloi.jpg
 imageAlt: woman,  laptop,  desk,  coffee cup
 credit: Foto oleh Pexels di Pixabay

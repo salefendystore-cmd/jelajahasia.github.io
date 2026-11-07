@@ -2,6 +2,7 @@
 title: Taj Mahal: Kisah Cinta dan Seni Bina
 description: Sejarah Taj Mahal, makam marmar putih yang dibina Shah Jahan untuk Mumtaz Mahal, serta reka bentuk Mughal, pembinaan dan status warisan dunia.
 category: sejarah-budaya
+negara: India
 image: sejarah-taj-mahal-kisah-cinta-seni-bina.jpg
 imageAlt: taj mahal,  india,  agra,  islamic
 credit: Foto oleh wiganparky0 di Pixabay

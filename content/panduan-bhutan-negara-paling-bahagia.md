@@ -2,6 +2,7 @@
 title: Bhutan, Negara Paling Bahagia: Berapa Kosnya?
 description: Panduan kos melawat Bhutan, daripada Yuran Pembangunan Mampan, visa, pelancongan berpandu hingga makna Kebahagiaan Negara Kasar, dengan peringatan untuk menyemak peraturan.
 category: destinasi
+negara: Bhutan
 image: panduan-bhutan-negara-paling-bahagia.jpg
 imageAlt: temple,  monastery,  cliff,  cliffside
 credit: Foto oleh donvikro di Pixabay

@@ -2,6 +2,7 @@
 title: Hang Tuah: Lagenda atau Sejarah?
 description: Siapa Hang Tuah? Kajian tentang sumber seperti Sejarah Melayu dan Hikayat Hang Tuah, perdebatan sarjana tentang kewujudannya, dan kisah Hang Jebat.
 category: personaliti
+negara: Malaysia
 image: hang-tuah-lagenda-atau-sejarah.jpg
 imageAlt: river,  that,  city,  nature
 credit: Foto oleh Engin_Akyurt di Pixabay

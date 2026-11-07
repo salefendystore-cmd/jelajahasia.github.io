@@ -2,6 +2,7 @@
 title: Kerajaan Ayutthaya dan Thailand Purba
 description: Sejarah Kerajaan Ayutthaya, ibu kota Siam selama kira-kira 400 tahun, kejatuhannya pada 1767, dan tapak runtuh yang boleh dilawati hari ini termasuk Wat Mahathat.
 category: sejarah-budaya
+negara: Thailand
 image: sejarah-ayutthaya-thailand-purba.jpg
 imageAlt: thailand,  asia,  buddha purnima,  buddha
 credit: Foto oleh Akcarawat di Pixabay

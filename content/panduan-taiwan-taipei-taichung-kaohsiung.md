@@ -2,6 +2,7 @@
 title: Panduan ke Taiwan: Taipei, Taichung dan Kaohsiung
 description: Itinerari Taiwan 8 hari merentasi Taipei, Taichung dan Kaohsiung, dengan tips keretapi laju, pasar malam, makanan halal dan perancangan.
 category: destinasi
+negara: Taiwan
 image: panduan-taiwan-taipei-taichung-kaohsiung.jpg
 imageAlt: buildings,  taiwan,  taipei 101,  city view
 credit: Foto oleh Pexels di Pixabay

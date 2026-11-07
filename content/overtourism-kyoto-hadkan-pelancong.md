@@ -2,6 +2,7 @@
 title: Apa Itu Overtourism dan Kenapa Kyoto Hadkan Pelancong
 description: Penjelasan tentang overtourism, kesannya terhadap penduduk dan ekonomi, dan langkah Kyoto serta bandar lain mengawal jumlah pelancong.
 category: ekonomi
+negara: Jepun, Indonesia, Bhutan, Thailand
 image: overtourism-kyoto-hadkan-pelancong.jpg
 imageAlt: alley,  street,  houses,  buildings
 credit: Foto oleh Kanenori di Pixabay

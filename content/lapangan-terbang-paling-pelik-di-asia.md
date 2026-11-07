@@ -2,6 +2,7 @@
 title: Lapangan Terbang Paling Pelik di Asia
 description: Lapangan terbang unik dan mencabar di Asia, daripada Paro di Bhutan dan Lukla di Nepal hingga Kai Tak yang sudah ditutup, serta lapangan terbang di pulau buatan.
 category: fakta-menarik
+negara: Bhutan, Nepal, Hong Kong, Jepun
 image: lapangan-terbang-paling-pelik-di-asia.jpg
 imageAlt: nepal,  airfield,  lukla,  everest
 credit: Foto oleh Simon di Pixabay

@@ -2,6 +2,7 @@
 title: Lombok vs Bali: Pilih Mana?
 description: Perbandingan Lombok dan Bali dari segi budaya, pantai, gunung, makanan halal dan suasana, serta panduan memilih mengikut jenis percutian anda.
 category: destinasi
+negara: Indonesia
 image: lombok-vs-bali-pilih-mana.jpg
 imageAlt: beach,  sea,  sky,  natural
 credit: Foto oleh 18531141 di Pixabay

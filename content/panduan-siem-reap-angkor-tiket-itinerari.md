@@ -2,6 +2,7 @@
 title: Siem Reap dan Angkor Wat: Panduan Penuh untuk Pelancong
 description: Panduan praktikal ke Siem Reap dan kawasan Angkor, merangkumi jenis tiket, itinerari 3 hari, kuil utama, etika, makanan dan tip supaya tidak tertipu.
 category: destinasi
+negara: Kemboja
 image: panduan-siem-reap-angkor-tiket-itinerari.jpg
 imageAlt: ancient,  angkor,  angkor wat temples,  architecture
 credit: Foto oleh jameswheeler di Pixabay

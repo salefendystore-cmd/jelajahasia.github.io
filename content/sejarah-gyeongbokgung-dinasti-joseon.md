@@ -2,6 +2,7 @@
 title: Istana Gyeongbokgung dan Dinasti Joseon
 description: Sejarah Istana Gyeongbokgung di Seoul, daripada pembinaan 1395, kemusnahan Perang Imjin 1592 hingga pembinaan semula abad ke-19 dan kaitannya dengan Dinasti Joseon.
 category: sejarah-budaya
+negara: Korea Selatan
 image: sejarah-gyeongbokgung-dinasti-joseon.jpg
 imageAlt: building,  pond,  reflection,  nature
 credit: Foto oleh Lancier di Pixabay

@@ -2,6 +2,7 @@
 title: Tempat Paling Sejuk dan Paling Panas di Asia
 description: Rekod suhu ekstrem di Asia, daripada Oymyakon dan Verkhoyansk di Siberia hingga Mitribah di Kuwait, serta cara dan sebab rekod suhu sering dipertikaikan.
 category: fakta-menarik
+negara: Rusia, Kuwait
 image: tempat-paling-sejuk-dan-panas-di-asia.jpg
 imageAlt: ice,  iceberg,  ice floes,  winter
 credit: Foto oleh 8moments di Pixabay
