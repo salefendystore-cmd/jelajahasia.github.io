@@ -199,7 +199,12 @@ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){c.textC
 });})();</script>`;
 
 // ====== Bina ======
-const write = (p, c) => { const f = path.join(DIST, p); fs.mkdirSync(path.dirname(f), { recursive: true }); fs.writeFileSync(f, c); };
+// Jika SITE_URL mempunyai sub-laluan (contoh GitHub Pages projek), awalkan semua pautan dalaman.
+const BASE = new URL(SITE.url).pathname.replace(/\/$/, '');
+const write = (p, c) => {
+  if (BASE && p.endsWith('.html')) c = c.replace(/(href|src)="\/(?!\/)/g, `$1="${BASE}/`);
+  const f = path.join(DIST, p); fs.mkdirSync(path.dirname(f), { recursive: true }); fs.writeFileSync(f, c);
+};
 fs.rmSync(DIST, { recursive: true, force: true });
 const STATIC = path.join(ROOT, 'static');
 if (fs.existsSync(STATIC)) fs.cpSync(STATIC, DIST, { recursive: true }); // gambar, CNAME, ads.txt
