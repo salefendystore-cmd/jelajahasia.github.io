@@ -64,7 +64,7 @@ Beberapa pulau terkenal kerana populasi haiwan yang tinggi, seperti pulau kucing
 
 ## 14. Hotel kapsul
 
-Hotel kapsul memberi ruang tidur kecil seperti pod. Ia asalnya dicipta untuk pekerja yang terlepas keretapi terakhir, dan kini menjadi pengalaman unik bagi pelancong.
+Hotel kapsul memberi ruang tidur kecil seperti pod. Hotel kapsul pertama dunia dibuka di Osaka pada 1979, dan kini ia menjadi pengalaman unik bagi pelancong.
 
 ## 15. Berkongsi musim dengan cara istimewa
 
