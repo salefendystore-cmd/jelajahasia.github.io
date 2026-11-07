@@ -8,7 +8,7 @@ credit: Foto oleh 851878 di Pixabay
 imageq: chinese junk sailing ship
 date: 2026-11-07
 ---
-Sekitar 70 tahun sebelum Christopher Columbus belayar ke Dunia Baharu, seorang laksamana dari China memimpin armada besar merentasi Lautan Hindi. Namanya Zheng He, atau **Cheng Ho** dalam sebutan Melayu. Pelayarannya menghubungkan China dengan Asia Tenggara, India, Teluk Parsi dan pantai timur Afrika, dan Melaka menjadi salah satu pelabuhan persinggahan penting.
+Hampir 90 tahun sebelum Christopher Columbus belayar ke Dunia Baharu, seorang laksamana dari China memimpin armada besar merentasi Lautan Hindi. Namanya Zheng He, atau **Cheng Ho** dalam sebutan Melayu. Pelayarannya menghubungkan China dengan Asia Tenggara, India, Teluk Parsi dan pantai timur Afrika, dan Melaka menjadi salah satu pelabuhan persinggahan penting.
 
 ## Siapa Cheng Ho?
 
@@ -21,7 +21,7 @@ Ketika Dinasti Ming menawan Yunnan, beliau ditawan semasa kecil dan dibawa ke is
 Antara tahun 1405 hingga 1433, Cheng Ho memimpin **tujuh ekspedisi** laut. Tujuannya pelbagai: menunjukkan kekuatan dan kemakmuran Dinasti Ming, menjalin hubungan diplomatik, memperluas perdagangan dan menerima ufti daripada kerajaan lain.
 
 ### Armada yang luar biasa
-Armada ini sangat besar menurut piawaian zamannya. Ia dikatakan terdiri daripada ratusan kapal dan puluhan ribu anak kapal, termasuk **kapal harta karun** yang jauh lebih besar daripada kapal Eropah pada era yang sama. Ukuran tepat kapal tersebut masih diperdebatkan sarjana kerana sumber sejarahnya terhad dan berbeza.
+Armada ini sangat besar menurut piawaian zamannya. Ia dikatakan terdiri daripada ratusan kapal dan puluhan ribu anak kapal, termasuk **kapal harta karun** yang jauh lebih besar daripada kapal Eropah pada era yang sama. Ukuran tepat kapal tersebut masih diperdebatkan sarjana. Angka tradisional yang sangat besar (lebih 120 meter) datang daripada sumber yang ditulis berabad selepas pelayaran, manakala bukti awal dan sebahagian kajian terkini menganggarkan saiz lebih kecil, sekitar 60 hingga 76 meter.
 
 ### Destinasi
 Armada ini singgah di:

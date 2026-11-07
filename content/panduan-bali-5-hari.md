@@ -16,7 +16,7 @@ Bali sentiasa berada dalam senarai impian pelancong Malaysia kerana jaraknya dek
 Musim kemarau, kira-kira April hingga Oktober, biasanya lebih sesuai untuk pantai dan aktiviti luar. Musim hujan (November hingga Mac) lebih lembap tetapi lebih sunyi dan kadangkala lebih murah. Hujan biasanya turun pada waktu petang dan jarang berlarutan sepanjang hari.
 
 ### Cukai pelancong
-Bali mengenakan levi pelancong asing sejak 2024. Jumlahnya dalam bentuk rupiah dan boleh dibayar secara dalam talian atau semasa ketibaan. Semak laman web rasmi untuk kadar dan kaedah bayaran terkini.
+Bali mengenakan levi pelancong asing sejak 2024. Kadarnya IDR 150,000 seorang, dibayar melalui portal rasmi **Love Bali** (anda akan mendapat kod QR untuk ditunjukkan semasa ketibaan). Berhati-hati dengan laman palsu, dan semak syarat semasa, termasuk untuk kanak-kanak, di laman rasmi sebelum membayar.
 
 ### Pengangkutan
 Pengangkutan awam terhad. Pilihan biasa ialah:
@@ -63,7 +63,7 @@ Bali majoritinya penganut Hindu, jadi masakan babi mudah ditemui. Namun, terdapa
 2. Jangan memijak persembahan kecil (*canang sari*) yang diletakkan di tepi jalan.
 3. Jangan memanjat struktur suci untuk bergambar.
 4. Elakkan menggunakan dron tanpa kebenaran, terutamanya berhampiran kuil.
-5. Hormati hari **Nyepi** (Hari Raya Sunyi), apabila seluruh pulau berehat selama 24 jam dan lapangan terbang ditutup. Semak tarikhnya jika merancang perjalanan pada bulan Mac.
+5. Hormati hari **Nyepi** (Hari Raya Sunyi), apabila seluruh pulau berehat selama 24 jam dan lapangan terbang ditutup. Tarikhnya berubah setiap tahun mengikut kalendar Saka, biasanya antara Mac dan April, jadi semak sebelum menempah.
 
 ## Tips praktikal
 

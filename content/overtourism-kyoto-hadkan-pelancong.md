@@ -35,12 +35,12 @@ Beberapa punca tekanan:
 
 Di sesetengah kawasan, penduduk mengadu tentang bas yang sesak sehingga mereka sukar menaikinya, pelancong yang memasuki lorong persendirian, dan bunyi bising. Daerah **Gion**, kawasan geisha dan maiko, mendapat perhatian apabila ada laporan pelancong mengejar dan mengganggu mereka untuk bergambar.
 
-Sebagai respons, beberapa kawasan lorong persendirian di Gion memasang papan tanda larangan mengambil gambar dan pihak berkuasa tempatan memperkenalkan peraturan lebih ketat. Beberapa laporan menyebut kemungkinan denda untuk pelanggaran peraturan tertentu. Semak maklumat terkini sebelum melawat kerana peraturan boleh berubah.
+Sebagai respons, sejak 2019 persatuan penduduk Gion melarang pengambilan gambar di lorong persendirian berhampiran Jalan Hanamikoji, dengan denda ¥10,000 yang dilaporkan, walaupun larangan itu pada asalnya tidak mengikat dari segi undang-undang. Mulai April 2024, papan tanda berbilang bahasa dipasang di tepi jalan persendirian untuk memberi amaran denda ¥10,000 bagi pencerobohan. Jalan utama Hanamikoji yang awam kekal terbuka. Cara penguatkuasaan boleh berubah, jadi semak maklumat terkini sebelum melawat.
 
 ## Apa yang dilakukan Kyoto?
 
 Langkah yang dibincangkan atau diperkenalkan:
-1. **Cukai penginapan**: kadar cukai penginapan dinaikkan dan dibuat lebih berperingkat mengikut harga bilik. Hasilnya bertujuan menampung kos pengurusan pelancongan.
+1. **Cukai penginapan**: mulai 1 Mac 2026, Kyoto melaksanakan cukai penginapan berperingkat mengikut harga bilik. Kadar tertinggi ialah ¥10,000 seorang semalam bagi bilik ¥100,000 atau lebih, manakala bilik di bawah ¥6,000 kekal pada ¥200. Ini kenaikan pertama sejak cukai itu diperkenalkan pada 2018, dan hasilnya dijangka hampir dua kali ganda untuk membiayai pengurusan pelancongan.
 2. **Menyebarkan pelancong**: promosi tempat kurang popular dan waktu kurang sesak.
 3. **Bas dan pengangkutan**: pelbagai langkah memperbaiki pengurusan bas dan menggalakkan penggunaan subway dan keretapi.
 4. **Peraturan etika**: kempen tentang adab, seperti larangan memasuki kawasan persendirian dan tidak makan sambil berjalan di tempat tertentu.

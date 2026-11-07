@@ -124,8 +124,8 @@ const CSS2 = `
 .cover,.coverimg{width:100%;border-radius:18px;margin:20px 0 32px}.coverimg{height:auto;aspect-ratio:1200/630;object-fit:cover;display:block}
 .coverfig{margin:20px 0 32px}.coverfig .coverimg{margin:0}.coverfig figcaption{font-size:12px;color:var(--mute);margin-top:6px}
 img.img{padding:0;object-fit:cover;width:100%;display:block}
-.share{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 20px}.share.bottom{margin:28px 0}
-.share .s,.share .like{display:inline-flex;align-items:center;gap:6px;min-height:44px;padding:0 16px;border-radius:999px;border:1px solid var(--line);background:var(--bg);color:var(--ink);font:500 14px Inter,sans-serif;cursor:pointer}
+.share{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 18px}.share.bottom{margin:28px 0}
+.share .s,.share .like{display:inline-flex;align-items:center;gap:5px;min-height:34px;padding:0 12px;border-radius:999px;border:1px solid var(--line);background:var(--bg);color:var(--ink);font:500 12.5px Inter,sans-serif;cursor:pointer;line-height:1}
 .share .wa{background:#25D366;border-color:#25D366;color:#fff}.share .fb{background:#1877F2;border-color:#1877F2;color:#fff}.share .tg{background:#229ED9;border-color:#229ED9;color:#fff}.share .x{background:#111;border-color:#111;color:#fff}
 .share .like.on{background:var(--coral);border-color:var(--coral);color:#fff}
 .author{display:flex;gap:14px;align-items:flex-start;background:var(--sand);border-radius:14px;padding:18px;margin:8px 0 24px}
@@ -136,7 +136,7 @@ html{-webkit-text-size-adjust:100%}
 .hero{padding:44px 0}.hero p{font-size:16px}section{padding:32px 0}h2.s{font-size:24px}
 .prose{font-size:17px}.prose h2{font-size:24px}.grid{grid-template-columns:1fr}
 .nav{height:60px}.cats{grid-template-columns:repeat(2,1fr)}
-.share .s,.share .like{flex:1 1 calc(50% - 8px);justify-content:center}
+.share{gap:6px}.share .s,.share .like{flex:1 1 calc(33.33% - 6px);justify-content:center;min-height:38px;padding:0 8px}
 }
 `;
 const nav = (active) => Object.entries(CATS).map(([k, v]) => `<a href="/kategori/${k}/"${active === k ? ' class="on"' : ''}>${esc(v.name)}</a>`).join('');

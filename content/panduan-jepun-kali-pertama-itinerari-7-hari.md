@@ -40,7 +40,7 @@ Osaka terkenal dengan makanan jalanan. Singgah di Dotonbori, Istana Osaka dan Um
 
 ## Pengangkutan: perlu beli Japan Rail Pass?
 
-Harga pas JR meningkat dengan ketara pada tahun-tahun kebelakangan ini, jadi ia tidak lagi sentiasa berbaloi. Kira dahulu harga tiket Shinkansen Tokyo ke Kyoto dan Kyoto ke Osaka secara berasingan, kemudian bandingkan dengan harga pas semasa di laman web rasmi. Untuk bandar, kad IC seperti Suica atau Pasmo (boleh ditambah nilai dalam telefon) sangat memudahkan perjalanan.
+Harga pas JR melonjak kira-kira 65 hingga 70 peratus pada Oktober 2023 (contohnya pas 7 hari daripada ¥29,650 kepada ¥50,000), jadi ia tidak lagi sentiasa berbaloi. Kira dahulu harga tiket Shinkansen Tokyo ke Kyoto dan Kyoto ke Osaka secara berasingan, kemudian bandingkan dengan harga pas semasa di laman web rasmi. Untuk bandar, kad IC seperti Suica atau Pasmo (boleh ditambah nilai dalam telefon) sangat memudahkan perjalanan.
 
 ## Anggaran bajet
 
