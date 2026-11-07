@@ -172,7 +172,7 @@ ${p !== '/' && /^\/[^/]+\/$/.test(p) ? SCRIPT : ''}
 const adSlot = () => SITE.adsenseClient
   ? `<ins class="adsbygoogle" style="display:block" data-ad-client="${SITE.adsenseClient}" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle=window.adsbygoogle||[]).push({})</script>`
   : '';
-const cover = (a, cls) => a.image ? `<img class="${cls}" src="${a.image}" alt="${esc(a.imageAlt || a.title)}" loading="lazy" width="1200" height="630">` : '';
+const cover = (a, cls) => a.image ? `<img class="${cls}" src="${a.image}" alt="${esc(a.imageAlt || a.title)}" ${cls === 'coverimg' ? 'fetchpriority="high"' : 'loading="lazy"'} width="1200" height="630">` : '';
 const card = a => `<a class="card" href="${a.url}">${a.image ? cover(a, 'img') : `<div class="img g-${CATS[a.cat].c}">${esc(a.title.charAt(0))}</div>`}<div class="t"><span class="tag">${esc(CATS[a.cat].name)}</span><h3>${esc(a.title)}</h3><p>${esc(a.description)}</p></div></a>`;
 
 
