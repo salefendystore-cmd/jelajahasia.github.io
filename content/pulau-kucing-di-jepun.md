@@ -2,6 +2,10 @@
 title: Pulau Kucing di Jepun
 description: Kenali pulau-pulau di Jepun yang terkenal dengan populasi kucing yang ramai, daripada Tashirojima hingga Aoshima, dan tips melawat dengan beretika.
 category: fakta-menarik
+image: pulau-kucing-di-jepun.jpg
+imageAlt: cat,  feral cat,  pet,  nature
+credit: Foto oleh 5459357 di Pixabay
+imageq: stray cats harbor
 date: 2026-11-07
 ---
 Bayangkan sebuah pulau di mana kucing kelihatan di setiap sudut, di pelabuhan, di tepi jalan dan di bumbung rumah. Di Jepun, tempat seperti ini wujud dan menjadi tarikan pelancong pencinta kucing.

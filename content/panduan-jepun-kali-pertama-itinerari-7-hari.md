@@ -2,6 +2,10 @@
 title: Panduan Lengkap ke Jepun Kali Pertama: Itinerari 7 Hari
 description: Itinerari 7 hari Tokyo, Hakone, Kyoto dan Osaka untuk pelancong kali pertama, lengkap dengan tips pengangkutan, bajet dan makanan halal.
 category: destinasi
+image: panduan-jepun-kali-pertama-itinerari-7-hari.jpg
+imageAlt: tokyo,  park,  nature,  japan
+credit: Foto oleh shbs di Pixabay
+imageq: tokyo japan temple
 date: 2026-11-07
 ---
 Jepun sering berada di senarai impian pelancong Malaysia. Ia bersih, selamat, makanannya sedap dan pengangkutannya tepat pada masa. Tetapi bagi yang pertama kali ke sana, jadual yang padat dan sistem keretapi yang kelihatan rumit boleh membuatkan anda keliru. Panduan ini memberi laluan 7 hari yang mudah diikuti dan sesuai untuk pemula.

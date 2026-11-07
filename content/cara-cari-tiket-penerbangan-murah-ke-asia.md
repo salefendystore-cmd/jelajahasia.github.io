@@ -2,6 +2,10 @@
 title: Cara Cari Tiket Penerbangan Murah ke Asia
 description: Trik praktikal untuk dapat tiket penerbangan murah ke destinasi Asia, daripada tarikh fleksibel hingga cara guna amaran harga.
 category: tips-travel
+image: cara-cari-tiket-penerbangan-murah-ke-asia.jpg
+imageAlt: sky,  aviation,  airplane,  aircraft
+credit: Foto oleh annekroiss di Pixabay
+imageq: airplane wing sky travel
 date: 2026-11-07
 ---
 Tiket penerbangan biasanya kos terbesar dalam bajet percutian. Berita baiknya, Asia mempunyai banyak syarikat penerbangan tambang murah, jadi dengan strategi yang betul anda boleh menjimatkan ratusan ringgit. Berikut cara yang terbukti berguna.

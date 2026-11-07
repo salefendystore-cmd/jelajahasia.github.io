@@ -2,6 +2,10 @@
 title: Ibn Battuta: Pengembara Terhebat Dunia Islam
 description: Kisah Ibn Battuta, pengembara Maghribi abad ke-14 yang menempuh perjalanan puluhan tahun merentasi Afrika, Timur Tengah dan Asia.
 category: personaliti
+image: ibn-battuta-pengembara-terhebat.jpg
+imageAlt: adventure,  treasure map,  old world map,  pirates
+credit: Foto oleh MasterTux di Pixabay
+imageq: old map vintage compass
 date: 2026-11-07
 ---
 Ramai orang mengenali Marco Polo, tetapi pengembara dari dunia Islam, Ibn Battuta, mungkin menempuh jarak yang lebih jauh. Selama kira-kira 29 tahun, beliau merentasi Afrika Utara, Timur Tengah, Asia Tengah, India, Asia Tenggara dan China.

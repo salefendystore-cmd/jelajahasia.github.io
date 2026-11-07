@@ -2,6 +2,10 @@
 title: Melaka sebagai Pelabuhan Dunia
 description: Bagaimana Melaka berkembang daripada perkampungan nelayan menjadi pelabuhan perdagangan terpenting di Asia pada abad ke-15.
 category: sejarah-budaya
+image: melaka-pelabuhan-dunia.jpg
+imageAlt: the church,  red,  malaysia,  city
+credit: Foto oleh Engin_Akyurt di Pixabay
+imageq: malacca historic church
 date: 2026-11-07
 ---
 Pada abad ke-15, Melaka dikenali dari Eropah hingga China sebagai salah satu pelabuhan paling sibuk di dunia. Bagaimana sebuah perkampungan kecil di tepi selat boleh berkembang sedemikian rupa?
