@@ -37,7 +37,7 @@ Menurut data Pertubuhan Pelancongan Kebangsaan Jepun (JNTO), jumlah ketibaan ant
 - **Pengeluaran asing**: perbelanjaan pelancong dianggap sebagai sejenis eksport perkhidmatan.
 
 ### Cabaran
-- **Kesesakan dan kesukaran penduduk**: lihat contoh Kyoto dalam artikel kami tentang *overtourism*.
+- **Kesesakan dan kesukaran penduduk**: lihat contoh Kyoto dalam artikel kami tentang [*overtourism*](/overtourism-kyoto-hadkan-pelancong/).
 - **Kekurangan tenaga kerja** dalam sektor perkhidmatan.
 - **Kenaikan harga penginapan** di destinasi popular dan musim puncak.
 - **Pergantungan pada pelancong**: jika nilai yen kuat semula atau permintaan menurun, kesannya boleh dirasai.

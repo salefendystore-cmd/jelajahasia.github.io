@@ -21,7 +21,7 @@ Dalam bangunan, pemanas biasanya sangat kuat, jadi lapisan yang mudah ditanggalk
 
 ## Kasut
 
-- **Kasut yang hangat dan tahan air**, dengan tapak tidak licin. Panduan kami tentang Hokkaido menyebut bahawa salji yang dipadatkan menjadi licin seperti ais, jadi tapak yang baik penting.
+- **Kasut yang hangat dan tahan air**, dengan tapak tidak licin. Panduan kami tentang [Hokkaido](/hokkaido-musim-sejuk-apa-perlu-tahu/) menyebut bahawa salji yang dipadatkan menjadi licin seperti ais, jadi tapak yang baik penting.
 - **Stokin tebal atau stokin haba** dan sepasang ganti jika kasut basah.
 - Elakkan kasut sukan nipis untuk salji dan ais.
 - Sesetengah orang menggunakan **pelekat paku kecil** atau sarung kasut untuk ais, yang dijual di kedai tempatan.
@@ -39,7 +39,7 @@ Dalam bangunan, pemanas biasanya sangat kuat, jadi lapisan yang mudah ditanggalk
 - **Gunakan pelembap yang tebal** pada muka dan tangan.
 - **Minum air yang cukup** walaupun tidak berasa dahaga. Dehidrasi mudah berlaku dalam udara kering.
 - **Pakai pelindung matahari.** Pantulan salji boleh membakar kulit.
-- Jika anda mempunyai penyakit pernafasan atau keadaan kesihatan tertentu, bincang dengan doktor sebelum bertolak. Lihat juga artikel kami tentang first aid kit.
+- Jika anda mempunyai penyakit pernafasan atau keadaan kesihatan tertentu, bincang dengan doktor sebelum bertolak. Lihat juga artikel kami tentang [first aid kit](/isi-first-aid-kit-untuk-perjalanan/).
 
 ## Pakaian untuk dalam bangunan
 
@@ -58,7 +58,7 @@ Pemanas di dalam bangunan dan pengangkutan awam boleh sangat panas. Pakaian yang
 - Pelembap, pelembap bibir dan pelindung matahari
 - Beg plastik untuk pakaian basah
 
-Anda boleh mencuci pakaian di penginapan atau kedai dobi layan diri. Lihat panduan kami tentang bagasi kabin sahaja.
+Anda boleh mencuci pakaian di penginapan atau kedai dobi layan diri. Lihat panduan kami tentang [bagasi kabin sahaja](/panduan-bagasi-kabin-sahaja/).
 
 ## Perkara yang boleh dibeli di destinasi
 

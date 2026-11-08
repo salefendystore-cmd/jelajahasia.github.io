@@ -13,7 +13,7 @@ Dalam beberapa dekad, kereta api laju telah mengubah cara orang di Asia bergerak
 
 ## Permulaan di Jepun
 
-Kereta api laju moden bermula di Jepun apabila **Tokaido Shinkansen** dibuka pada **Oktober 1964**, menjelang Sukan Olimpik Tokyo, menghubungkan Tokyo dan Osaka. Ia terkenal kerana kelajuan dan ketepatan masa. Shinkansen membuktikan bahawa sistem keretapi khusus boleh bersaing dengan kenderaan dan penerbangan jarak sederhana, dan ia menjadi model bagi negara lain. Untuk panduan praktikal menaikinya, rujuk artikel kami tentang cara naik Shinkansen.
+Kereta api laju moden bermula di Jepun apabila **Tokaido Shinkansen** dibuka pada **Oktober 1964**, menjelang Sukan Olimpik Tokyo, menghubungkan Tokyo dan Osaka. Ia terkenal kerana kelajuan dan ketepatan masa. Shinkansen membuktikan bahawa sistem keretapi khusus boleh bersaing dengan kenderaan dan penerbangan jarak sederhana, dan ia menjadi model bagi negara lain. Untuk panduan praktikal menaikinya, rujuk artikel kami tentang [cara naik Shinkansen](/cara-naik-shinkansen-dengan-betul/).
 
 ## China: rangkaian terbesar
 

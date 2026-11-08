@@ -21,7 +21,7 @@ Pada **Jun 2023**, Korea Selatan menggunakan sistem umur antarabangsa untuk tuju
 
 ## 3. Gyeongbokgung dibina pada 1395
 
-Istana utama Dinasti Joseon ini dibina pada **1395**, terbakar pada 1592 semasa Perang Imjin dan dibina semula pada pertengahan abad ke-19. Pelawat yang memakai **hanbok** dilaporkan boleh masuk tanpa bayaran. Lihat artikel kami tentang Gyeongbokgung dan Dinasti Joseon.
+Istana utama Dinasti Joseon ini dibina pada **1395**, terbakar pada 1592 semasa Perang Imjin dan dibina semula pada pertengahan abad ke-19. Pelawat yang memakai **hanbok** dilaporkan boleh masuk tanpa bayaran. Lihat artikel kami tentang [Gyeongbokgung dan Dinasti Joseon](/sejarah-gyeongbokgung-dinasti-joseon/).
 
 ## 4. Dinasti Joseon memerintah dari 1392 hingga 1910
 
@@ -29,7 +29,7 @@ Dinasti ini bertahan kira-kira lima abad, dan pada 1897 negara dinamakan semula 
 
 ## 5. Jeju ialah Tapak Warisan Dunia
 
-**Pulau Gunung Berapi dan Tiub Lava Jeju** disenaraikan UNESCO pada **2007**, dengan tiga bahagian: Hallasan, sistem tiub lava Geomunoreum dan Seongsan Ilchulbong. Lihat panduan kami tentang Jeju.
+**Pulau Gunung Berapi dan Tiub Lava Jeju** disenaraikan UNESCO pada **2007**, dengan tiga bahagian: Hallasan, sistem tiub lava Geomunoreum dan Seongsan Ilchulbong. Lihat panduan kami tentang [Jeju](/panduan-pulau-jeju-percutian-santai/).
 
 ## 6. Haenyeo ialah penyelam wanita Jeju
 
@@ -49,13 +49,13 @@ Sumber yang kami semak berbeza antara 15 dan 17 tapak warisan dunia di Korea Sel
 
 ## 10. Aplikasi peta tempatan lebih berguna
 
-Untuk pelancong, Google Maps kurang tepat untuk arah berjalan kaki dan pengangkutan awam di Korea. Aplikasi tempatan seperti Naver Map dan KakaoMap lebih disyorkan. Lihat artikel kami tentang aplikasi wajib ketika melancong.
+Untuk pelancong, Google Maps kurang tepat untuk arah berjalan kaki dan pengangkutan awam di Korea. Aplikasi tempatan seperti Naver Map dan KakaoMap lebih disyorkan. Lihat artikel kami tentang [aplikasi wajib ketika melancong](/aplikasi-wajib-ada-ketika-melancong/).
 
 ## Bonus: tips melawat
 
 - Beli kad pengangkutan seperti T-money untuk subway dan bas.
 - Semak syarat masuk dan pendaftaran elektronik yang mungkin berubah.
-- Pilihan halal ada di sekitar Itaewon dan beberapa kawasan lain. Lihat panduan kami tentang Seoul.
+- Pilihan halal ada di sekitar Itaewon dan beberapa kawasan lain. Lihat panduan kami tentang [Seoul](/itinerari-5-hari-seoul-bajet-rendah/).
 - Hormati adab, seperti memberi tempat duduk kepada warga emas.
 
 ## Penutup

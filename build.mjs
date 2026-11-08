@@ -41,7 +41,9 @@ function inline(t) {
   return esc(t)
     .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
     .replace(/\*(.+?)\*/g, '<em>$1</em>')
-    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>');
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, (m, txt, url) => url.startsWith('/')
+      ? `<a class="xl" href="${url}" target="_blank" rel="noopener">${txt}<span class="sr-only"> (dibuka di tab baharu)</span></a>`
+      : `<a href="${url}">${txt}</a>`);
 }
 function md(src) {
   const lines = src.split('\n'); const out = []; let list = null, para = [];
@@ -192,6 +194,9 @@ article h1{font-family:Fraunces,Georgia,serif;font-size:clamp(28px,5vw,42px);lin
 .prose h3{font-size:21px;margin:28px 0 10px;color:var(--navy)}
 .prose ul,.prose ol{margin:0 0 20px;padding-left:24px}.prose li{margin-bottom:8px}
 .prose a{color:var(--teal);text-decoration:underline}
+.prose a.xl{text-decoration-thickness:1px;text-underline-offset:3px}
+.prose a.xl::after{content:'↗';font-size:.7em;margin-left:2px;opacity:.7;text-decoration:none;display:inline-block}
+.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 .prose blockquote{border-left:4px solid var(--teal-l);background:var(--sand);padding:14px 18px;border-radius:0 12px 12px 0;margin:0 0 20px}
 .tbl{overflow-x:auto;margin:0 0 20px;-webkit-overflow-scrolling:touch}
 .prose table{border-collapse:collapse;width:100%;min-width:480px;font-size:15.5px}

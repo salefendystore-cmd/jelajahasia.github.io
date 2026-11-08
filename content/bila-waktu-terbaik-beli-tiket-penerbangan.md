@@ -61,7 +61,7 @@ Harga saat akhir boleh jadi lebih tinggi, tetapi kadangkala ada tawaran. Jangan 
 
 ## Soal fleksibiliti
 
-Cara paling berkesan mendapat harga baik ialah **fleksibel dengan tarikh**, **lapangan terbang alternatif** dan **destinasi**. Lihat artikel kami tentang cara mencari tiket penerbangan murah ke Asia dan cara merancang percutian dengan bajet terhad.
+Cara paling berkesan mendapat harga baik ialah **fleksibel dengan tarikh**, **lapangan terbang alternatif** dan **destinasi**. Lihat artikel kami tentang [cara mencari tiket penerbangan murah ke Asia](/cara-cari-tiket-penerbangan-murah-ke-asia/) dan cara [merancang percutian dengan bajet](/cara-rancang-percutian-bajet-rm2000/) terhad.
 
 ## Sebelum membeli
 

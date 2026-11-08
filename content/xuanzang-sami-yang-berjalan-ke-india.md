@@ -13,7 +13,7 @@ Sekitar empat belas abad lalu, seorang sami Buddha dari China meninggalkan negar
 
 ## Siapa Xuanzang?
 
-Xuanzang ialah sami Buddha China pada zaman **Dinasti Tang**. Dia terkenal sebagai ahli terjemahan dan pengembara yang menjejaki sumber ajaran Buddha di India untuk mendapatkan teks yang dianggapnya lebih lengkap dan tepat daripada yang ada di China. Dalam konteks Laluan Sutera, dia ialah salah satu tokoh yang paling dikenali kerana perjalanannya merentasi Asia Tengah. Lihat artikel kami tentang Laluan Sutera.
+Xuanzang ialah sami Buddha China pada zaman **Dinasti Tang**. Dia terkenal sebagai ahli terjemahan dan pengembara yang menjejaki sumber ajaran Buddha di India untuk mendapatkan teks yang dianggapnya lebih lengkap dan tepat daripada yang ada di China. Dalam konteks Laluan Sutera, dia ialah salah satu tokoh yang paling dikenali kerana perjalanannya merentasi Asia Tengah. Lihat artikel kami tentang [Laluan Sutera](/laluan-sutera-jalan-perdagangan/).
 
 ## Meninggalkan China
 

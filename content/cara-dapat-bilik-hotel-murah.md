@@ -26,14 +26,14 @@ Harga hotel berubah mengikut permintaan. Hari bekerja biasanya lebih murah darip
 
 ## 4. Pilih lokasi dengan bijak
 
-Hotel di pusat bandar mahal, tetapi hotel yang jauh boleh menambah kos pengangkutan dan masa. Cara mudah ialah mencari penginapan **berhampiran stesen pengangkutan awam** yang menghubungkan anda ke tarikan utama. Lihat peta dan hitung masa serta tambang, bukan hanya harga bilik. Lihat juga panduan kami tentang merancang perjalanan dengan bajet.
+Hotel di pusat bandar mahal, tetapi hotel yang jauh boleh menambah kos pengangkutan dan masa. Cara mudah ialah mencari penginapan **berhampiran stesen pengangkutan awam** yang menghubungkan anda ke tarikan utama. Lihat peta dan hitung masa serta tambang, bukan hanya harga bilik. Lihat juga panduan kami tentang [merancang perjalanan dengan bajet](/cara-rancang-percutian-bajet-rm2000/).
 
 ## 5. Pertimbangkan jenis penginapan lain
 
 - **Hostel** dengan bilik persendirian atau katil dalam bilik kongsi, sesuai untuk pelancong solo.
 - **Hotel bajet dan hotel perniagaan** yang biasanya ringkas tetapi bersih.
 - **Homestay dan apartmen** yang berguna untuk keluarga atau kumpulan, dan ada dapur untuk memasak.
-- **Hotel kapsul** di Jepun untuk satu atau dua malam. Lihat artikel kami tentang hotel kapsul.
+- **Hotel kapsul** di Jepun untuk satu atau dua malam. Lihat artikel kami tentang [hotel kapsul](/hotel-kapsul-jepun-tidur-dalam-kotak/).
 
 Setiap pilihan mempunyai kelebihan dan kekurangan. Baca ulasan terkini, dan perhatikan lokasi, kebersihan dan keselamatan.
 
@@ -56,7 +56,7 @@ Ulasan memberi gambaran yang tidak ada dalam gambar. Perhatikan:
 - **Bayaran deposit** yang perlu dibayar semasa daftar masuk.
 - **Cukai pelancong** yang dikutip di tempat, seperti di beberapa bandar Asia.
 - **Bayaran untuk sarapan, tuala atau penggunaan kemudahan.**
-- **Caj tukaran mata wang** semasa membayar dengan kad. Pilih sentiasa untuk dicaj dalam mata wang tempatan. Rujuk panduan kami tentang menukar duit.
+- **Caj tukaran mata wang** semasa membayar dengan kad. Pilih sentiasa untuk dicaj dalam mata wang tempatan. Rujuk panduan kami tentang [menukar duit](/wise-revolut-tunai-tukar-duit-jimat/).
 
 ## 9. Fikirkan tempoh tinggal
 

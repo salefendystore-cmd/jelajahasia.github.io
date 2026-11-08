@@ -57,7 +57,7 @@ Bohol, tidak jauh dari Cebu dengan feri, terkenal dengan:
 
 ## Makanan dan halal
 
-Makanan Filipina menggabungkan pengaruh Melayu, Cina, Sepanyol dan Amerika. Hidangan terkenal ialah **adobo**, **sinigang** dan **lechon**, yang banyak menggunakan daging babi. Pilihan halal ada di Manila, terutama di kawasan komuniti Muslim dan beberapa restoran, tetapi kurang di pulau-pulau tertentu. Gunakan aplikasi halal, tanya dengan teliti dan bawa makanan sandaran. Lihat panduan kami tentang mencari makanan halal dan tempat solat.
+Makanan Filipina menggabungkan pengaruh Melayu, Cina, Sepanyol dan Amerika. Hidangan terkenal ialah **adobo**, **sinigang** dan **lechon**, yang banyak menggunakan daging babi. Pilihan halal ada di Manila, terutama di kawasan komuniti Muslim dan beberapa restoran, tetapi kurang di pulau-pulau tertentu. Gunakan aplikasi halal, tanya dengan teliti dan bawa makanan sandaran. Lihat panduan kami tentang [mencari makanan halal dan tempat solat](/cari-makanan-halal-dan-tempat-solat-semasa-melancong/).
 
 ## Pengangkutan antara pulau
 

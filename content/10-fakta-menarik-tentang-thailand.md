@@ -17,7 +17,7 @@ Beberapa sumber menyatakan bahawa nama upacara penuh Bangkok mengandungi **168 h
 
 ## 2. Songkran diiktiraf UNESCO pada 2023
 
-**Songkran**, Tahun Baru Thai pada pertengahan April, disenaraikan dalam Senarai Wakil Warisan Budaya Tidak Ketara Kemanusiaan UNESCO pada **6 Disember 2023**. Lihat artikel kami tentang festival besar di Asia.
+**Songkran**, Tahun Baru Thai pada pertengahan April, disenaraikan dalam Senarai Wakil Warisan Budaya Tidak Ketara Kemanusiaan UNESCO pada **6 Disember 2023**. Lihat artikel kami tentang [festival besar di Asia](/festival-besar-asia-patut-disertai/).
 
 ## 3. Thailand mempunyai beberapa elemen UNESCO lain
 
@@ -25,7 +25,7 @@ Selain Songkran, Thailand mempunyai **Khon** (drama tarian bertopeng, 2018), **N
 
 ## 4. Ayutthaya pernah menjadi ibu kota selama lebih empat abad
 
-Kerajaan Ayutthaya wujud dari sekitar 1350 hingga 1767, apabila bandar ditawan dan dibakar oleh tentera Burma. Lihat artikel kami tentang Ayutthaya, termasuk kepala Buddha yang terselit dalam akar pokok di Wat Mahathat.
+Kerajaan Ayutthaya wujud dari sekitar 1350 hingga 1767, apabila bandar ditawan dan dibakar oleh tentera Burma. Lihat artikel kami tentang [Ayutthaya](/sejarah-ayutthaya-thailand-purba/), termasuk kepala Buddha yang terselit dalam akar pokok di Wat Mahathat.
 
 ## 5. Thailand sering disebut tidak pernah dijajah oleh kuasa Eropah
 
@@ -33,23 +33,23 @@ Ini dakwaan yang sering diulang, dan secara umum diterima bahawa Siam mengekalka
 
 ## 6. "Tanah Senyuman" dan banyak makna senyuman
 
-Gelaran "Tanah Senyuman" digunakan dalam kempen pelancongan, tetapi senyuman Thai boleh bermaksud keramahan, rasa malu, hormat atau meminta maaf. Lihat artikel kami tentang asal usul gelaran ini.
+Gelaran "Tanah Senyuman" digunakan dalam kempen pelancongan, tetapi senyuman Thai boleh bermaksud keramahan, rasa malu, hormat atau meminta maaf. Lihat artikel kami tentang [asal usul gelaran ini](/kenapa-thailand-dipanggil-tanah-senyuman/).
 
 ## 7. Hampir 40 juta pelawat pada 2019, dan angka berubah selepas itu
 
-Pada 2019, Thailand menerima hampir 40 juta pelawat asing. Pada 2025, jumlahnya dilaporkan sekitar 32.9 juta, turun kira-kira 7.2 peratus berbanding 2024. Lihat artikel kami tentang pemulihan pelancongan Thailand.
+Pada 2019, Thailand menerima hampir 40 juta pelawat asing. Pada 2025, jumlahnya dilaporkan sekitar 32.9 juta, turun kira-kira 7.2 peratus berbanding 2024. Lihat artikel kami tentang [pemulihan pelancongan Thailand](/pelancongan-thailand-selepas-pandemik/).
 
 ## 8. Wat Pho menempatkan Buddha berbaring yang sangat besar
 
-Kuil Wat Pho di Bangkok terkenal dengan patung Buddha berbaring yang panjangnya lebih daripada 40 meter dan dianggap tempat kelahiran urutan tradisional Thai. Lihat panduan kami tentang tempat menarik di Bangkok.
+Kuil Wat Pho di Bangkok terkenal dengan patung Buddha berbaring yang panjangnya lebih daripada 40 meter dan dianggap tempat kelahiran urutan tradisional Thai. Lihat panduan kami tentang [tempat menarik di Bangkok](/10-tempat-wajib-singgah-bangkok/).
 
 ## 9. Selatan Thailand mempunyai komuniti Muslim yang ketara
 
-Berbanding utara dan tengah yang majoriti Buddha, selatan Thailand mempunyai penduduk Muslim yang ramai, jadi makanan halal dan masjid lebih mudah ditemui di Phuket, Krabi dan sekitarnya. Lihat panduan kami tentang pantai Andaman.
+Berbanding utara dan tengah yang majoriti Buddha, selatan Thailand mempunyai penduduk Muslim yang ramai, jadi makanan halal dan masjid lebih mudah ditemui di Phuket, Krabi dan sekitarnya. Lihat panduan kami tentang [pantai Andaman](/panduan-phuket-krabi-pantai-andaman/).
 
 ## 10. Festival lampion di utara
 
-Pada musim sejuk, penduduk di utara melepaskan krathong ke sungai dan lampion ke langit semasa Loy Krathong dan Yi Peng. Tarikh bergantung pada kalendar bulan. Lihat panduan kami tentang Chiang Mai.
+Pada musim sejuk, penduduk di utara melepaskan krathong ke sungai dan lampion ke langit semasa Loy Krathong dan Yi Peng. Tarikh bergantung pada kalendar bulan. Lihat panduan kami tentang [Chiang Mai](/panduan-chiang-mai-chiang-rai/).
 
 ## Bonus: bagaimana kita menyemak fakta ini
 

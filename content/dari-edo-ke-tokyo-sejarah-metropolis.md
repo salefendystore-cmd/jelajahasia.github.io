@@ -17,7 +17,7 @@ Sumber sejarah menyebut tahun **1457** sebagai pembinaan Istana Edo, di tapak ya
 
 ## Ibu kota keshogunan Tokugawa
 
-Perubahan besar berlaku pada **1603**, apabila **Tokugawa Ieyasu** menjadi shogun dan memerintah Jepun dari Istana Edo. Zaman Edo bermula dan berlangsung hingga **1868**. Selama sekitar dua setengah abad, Edo berkembang menjadi pusat politik negara, walaupun maharaja kekal tinggal di Kyoto. Daimyo (tuan tanah) dikehendaki menghabiskan masa tertentu di Edo, yang membawa ramai pembesar, pengiring dan pedagang ke bandar ini dan menggalakkan pertumbuhan ekonomi. Untuk kisah samurai dan kehidupan zaman itu, baca artikel kami tentang samurai dan zaman Edo.
+Perubahan besar berlaku pada **1603**, apabila **Tokugawa Ieyasu** menjadi shogun dan memerintah Jepun dari Istana Edo. Zaman Edo bermula dan berlangsung hingga **1868**. Selama sekitar dua setengah abad, Edo berkembang menjadi pusat politik negara, walaupun maharaja kekal tinggal di Kyoto. Daimyo (tuan tanah) dikehendaki menghabiskan masa tertentu di Edo, yang membawa ramai pembesar, pengiring dan pedagang ke bandar ini dan menggalakkan pertumbuhan ekonomi. Untuk kisah samurai dan kehidupan zaman itu, baca artikel kami tentang [samurai dan zaman Edo](/samurai-dan-zaman-edo/).
 
 Budaya bandar yang rancak melahirkan teater kabuki, cetakan *ukiyo-e*, gerai makanan jalanan dan kedai teh. Ramai sejarawan menggambarkan Edo sebagai salah satu bandar terbesar di dunia pada zamannya.
 
@@ -31,7 +31,7 @@ Pada era Meiji, Tokyo menerima pemodenan pesat: keretapi, bangunan batu bata, un
 
 ## Olimpik 1964
 
-Pada **1964**, Tokyo menganjurkan Sukan Olimpik, yang dianggap simbol kebangkitan Jepun selepas perang. Persiapan melibatkan pembinaan lebuh raya, stadium dan pengangkutan baharu. Pada tahun yang sama, perkhidmatan Shinkansen pertama dibuka. Untuk panduan menaikinya, rujuk artikel kami tentang cara naik Shinkansen.
+Pada **1964**, Tokyo menganjurkan Sukan Olimpik, yang dianggap simbol kebangkitan Jepun selepas perang. Persiapan melibatkan pembinaan lebuh raya, stadium dan pengangkutan baharu. Pada tahun yang sama, perkhidmatan Shinkansen pertama dibuka. Untuk panduan menaikinya, rujuk artikel kami tentang [cara naik Shinkansen](/cara-naik-shinkansen-dengan-betul/).
 
 ## Tempat untuk melihat sejarah ini
 

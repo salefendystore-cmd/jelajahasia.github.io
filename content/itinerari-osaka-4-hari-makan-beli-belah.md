@@ -45,7 +45,7 @@ Jika taman tema bukan minat anda, ganti dengan **Akuarium Kaiyukan** atau berjal
 
 Osaka sesuai sebagai pangkalan:
 - **Nara** (kira-kira setengah jam hingga satu jam dengan keretapi): taman rusa dan kuil besar.
-- **Kyoto**: lihat artikel kami tentang Kyoto.
+- **Kyoto**: lihat artikel kami tentang [Kyoto](/menjelajah-kyoto-kuil-kimono-kafe/).
 - **Himeji**: istana putih yang cantik, sebahagian dari pengalaman sejarah Jepun.
 - **Kobe**: pelabuhan dan pemandangan bandar.
 

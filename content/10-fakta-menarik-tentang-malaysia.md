@@ -21,7 +21,7 @@ Taman Kinabalu disenaraikan pada Disember 2000 dan menjadi tapak warisan dunia p
 
 ## 3. Puncak Gunung Kinabalu setinggi 4,095.2 meter
 
-**Puncak Low's Peak** di Gunung Kinabalu berketinggian kira-kira **4,095.2 meter**, antara yang tertinggi di Asia Tenggara. Pendaki memerlukan permit dan pemandu berlesen, dan jumlah permit harian dihadkan. Lihat panduan kami tentang Sabah.
+**Puncak Low's Peak** di Gunung Kinabalu berketinggian kira-kira **4,095.2 meter**, antara yang tertinggi di Asia Tenggara. Pendaki memerlukan permit dan pemandu berlesen, dan jumlah permit harian dihadkan. Lihat panduan kami tentang [Sabah](/panduan-sabah-kinabalu-semporna-sandakan/).
 
 ## 4. Ruang gua terbesar yang diketahui ada di Sarawak
 
@@ -29,19 +29,19 @@ UNESCO menyenaraikan **Dewan Sarawak (Sarawak Chamber)** di Gunung Mulu sebagai 
 
 ## 5. Melaka pernah menjadi pelabuhan dunia, dan jatuh pada 1511
 
-Pada abad ke-15, Melaka menjadi pusat perdagangan yang menghubungkan pedagang dari India, China, Arab dan Nusantara. Pada **1511**, ia ditawan Portugis. Lihat artikel kami tentang Melaka sebagai pelabuhan dunia.
+Pada abad ke-15, Melaka menjadi pusat perdagangan yang menghubungkan pedagang dari India, China, Arab dan Nusantara. Pada **1511**, ia ditawan Portugis. Lihat artikel kami tentang [Melaka sebagai pelabuhan dunia](/melaka-pelabuhan-dunia/).
 
 ## 6. George Town terkenal dengan seni jalanan
 
-Selepas George Town disenaraikan UNESCO pada Julai 2008, seni jalanan menjadi tarikan utama bandar ini, dengan karya artis seperti Ernest Zacharevic yang menjadi tersohor. Lihat panduan kami tentang George Town.
+Selepas George Town disenaraikan UNESCO pada Julai 2008, seni jalanan menjadi tarikan utama bandar ini, dengan karya artis seperti Ernest Zacharevic yang menjadi tersohor. Lihat panduan kami tentang [George Town](/panduan-george-town-pulau-pinang/).
 
 ## 7. Langkawi diiktiraf sebagai geopark
 
-Langkawi diiktiraf sebagai geopark sejak 2007 kerana warisan geologinya, dan juga dikenali sebagai pulau bebas cukai. Lihat perbandingan kami antara Maldives dan Langkawi.
+Langkawi diiktiraf sebagai geopark sejak 2007 kerana warisan geologinya, dan juga dikenali sebagai pulau bebas cukai. Lihat perbandingan kami [antara Maldives dan Langkawi](/maldives-vs-langkawi-mana-lebih-berbaloi/).
 
 ## 8. Malaysia di tangga teratas dalam pelancongan mesra Muslim
 
-Dalam **Indeks Pelancongan Muslim Global (GMTI) 2025** oleh Mastercard dan CrescentRating, Malaysia mengekalkan kedudukan teratas dalam kategori negara Pertubuhan Kerjasama Islam (OIC). Lihat artikel kami tentang pelancongan halal.
+Dalam **Indeks Pelancongan Muslim Global (GMTI) 2025** oleh Mastercard dan CrescentRating, Malaysia mengekalkan kedudukan teratas dalam kategori negara Pertubuhan Kerjasama Islam (OIC). Lihat artikel kami tentang [pelancongan halal](/pelancongan-halal-industri-berbilion-dolar/).
 
 ## 9. Menara Berkembar Petronas pernah bangunan tertinggi di dunia
 
@@ -53,7 +53,7 @@ Persekutuan Tanah Melayu mencapai kemerdekaan pada **31 Ogos 1957**. Malaysia, y
 
 ## Bonus: hidupan liar dan alam semula jadi
 
-Malaysia mempunyai hutan hujan tertua, dengan orang utan di Sabah dan Sarawak, pulau penyu, terumbu karang dan gunung. Sebahagian daripadanya, seperti Sepilok dan Kinabatangan, disebut dalam panduan kami tentang Sabah. Aktiviti dan peraturan hidupan liar boleh berubah, jadi semak sebelum melawat.
+Malaysia mempunyai hutan hujan tertua, dengan orang utan di Sabah dan Sarawak, pulau penyu, terumbu karang dan gunung. Sebahagian daripadanya, seperti Sepilok dan Kinabatangan, disebut dalam panduan kami tentang [Sabah](/panduan-sabah-kinabalu-semporna-sandakan/). Aktiviti dan peraturan hidupan liar boleh berubah, jadi semak sebelum melawat.
 
 ## Mengapa penting untuk mengetahui fakta ini?
 

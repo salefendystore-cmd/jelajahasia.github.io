@@ -8,7 +8,7 @@ credit: Foto oleh annekroiss di Pixabay
 imageq: airplane wing sky travel
 date: 2026-11-07
 ---
-Tiket penerbangan biasanya kos terbesar dalam bajet percutian. Berita baiknya, Asia mempunyai banyak syarikat penerbangan tambang murah, jadi dengan strategi yang betul anda boleh menjimatkan ratusan ringgit. Artikel ini menumpukan pada **cara mencari** tiket yang baik. Untuk soalan "bila patut beli", baca artikel berasingan kami tentang waktu terbaik membeli tiket, kerana jawapannya lebih rumit daripada satu angka ajaib.
+Tiket penerbangan biasanya kos terbesar dalam bajet percutian. Berita baiknya, Asia mempunyai banyak syarikat penerbangan tambang murah, jadi dengan strategi yang betul anda boleh menjimatkan ratusan ringgit. Artikel ini menumpukan pada **cara mencari** tiket yang baik. Untuk soalan "bila patut beli", baca artikel berasingan kami tentang [waktu terbaik membeli tiket](/bila-waktu-terbaik-beli-tiket-penerbangan/), kerana jawapannya lebih rumit daripada satu angka ajaib.
 
 ## 1. Mulakan dengan matlamat, bukan destinasi sahaja
 
@@ -20,7 +20,7 @@ Harga berbeza ketara antara hari bekerja dengan hujung minggu. Penerbangan Selas
 
 ## 3. Elakkan musim puncak jika boleh
 
-Cuti sekolah, Tahun Baru Cina, Hari Raya dan penghujung tahun menaikkan harga. Jika anda boleh pergi di luar musim puncak, penjimatan boleh besar. Destinasi seperti Jepun dan Korea lebih murah pada musim luar puncak, tetapi semak cuaca dahulu. Lihat artikel kami tentang Hokkaido dan pek untuk cuaca sejuk jika anda mempertimbangkan musim sejuk.
+Cuti sekolah, Tahun Baru Cina, Hari Raya dan penghujung tahun menaikkan harga. Jika anda boleh pergi di luar musim puncak, penjimatan boleh besar. Destinasi seperti Jepun dan Korea lebih murah pada musim luar puncak, tetapi semak cuaca dahulu. Lihat artikel kami tentang [Hokkaido](/hokkaido-musim-sejuk-apa-perlu-tahu/) dan [pek untuk cuaca sejuk](/pek-untuk-cuaca-sejuk-dari-malaysia/) jika anda mempertimbangkan musim sejuk.
 
 ## 4. Gunakan beberapa alat perbandingan
 
@@ -33,7 +33,7 @@ Jangan hanya bergantung pada satu sumber. Bandingkan sekurang-kurangnya dua atau
 
 ## 5. Pasang amaran harga
 
-Tetapkan amaran untuk laluan yang anda mahu. Anda akan dimaklumkan apabila harga berubah. Ini mengurangkan keperluan menyemak setiap hari dan membantu anda mengenali julat harga biasa, supaya anda tahu bila tawaran itu benar-benar baik. Lihat panduan kami tentang aplikasi wajib ada ketika melancong.
+Tetapkan amaran untuk laluan yang anda mahu. Anda akan dimaklumkan apabila harga berubah. Ini mengurangkan keperluan menyemak setiap hari dan membantu anda mengenali julat harga biasa, supaya anda tahu bila tawaran itu benar-benar baik. Lihat panduan kami tentang [aplikasi wajib ada ketika melancong](/aplikasi-wajib-ada-ketika-melancong/).
 
 ## 6. Perhatikan promosi syarikat tambang murah
 
@@ -41,7 +41,7 @@ Syarikat seperti AirAsia dan Scoot kerap mengadakan jualan besar. Daftar untuk s
 
 ## 7. Kira kos sebenar, bukan harga iklan
 
-Tambang murah mungkin tidak termasuk bagasi, pemilihan tempat duduk, makanan dan caj pembayaran. Satu contoh ilustrasi: jika tiket A kelihatan RM100 lebih murah tetapi anda perlu membayar bagasi daftar masuk dan tempat duduk, jumlah akhirnya mungkin lebih tinggi daripada tiket B dari syarikat penuh yang termasuk bagasi. Angka ini hanya contoh pengiraan, bukan harga sebenar. Sentiasa tambah semua kos sebelum membandingkan. Lihat juga panduan kami tentang bagasi kabin sahaja untuk menjimatkan yuran bagasi.
+Tambang murah mungkin tidak termasuk bagasi, pemilihan tempat duduk, makanan dan caj pembayaran. Satu contoh ilustrasi: jika tiket A kelihatan RM100 lebih murah tetapi anda perlu membayar bagasi daftar masuk dan tempat duduk, jumlah akhirnya mungkin lebih tinggi daripada tiket B dari syarikat penuh yang termasuk bagasi. Angka ini hanya contoh pengiraan, bukan harga sebenar. Sentiasa tambah semua kos sebelum membandingkan. Lihat juga panduan kami tentang [bagasi kabin sahaja](/panduan-bagasi-kabin-sahaja/) untuk menjimatkan yuran bagasi.
 
 ## 8. Pertimbangkan lapangan terbang dan penerbangan transit
 
@@ -55,12 +55,12 @@ Tambang murah mungkin tidak termasuk bagasi, pemilihan tempat duduk, makanan dan
 - **Semak syarat pembatalan dan pindaan** sebelum membayar.
 - **Semak syarat visa dan masuk** untuk destinasi, supaya tidak membeli tiket yang tidak boleh digunakan.
 - **Simpan e-mel pengesahan** dan imbasan tiket.
-- Rujuk senarai semak sebelum terbang kami.
+- Rujuk [senarai semak sebelum terbang](/senarai-semak-sebelum-terbang/) kami.
 
 ## 10. Kaedah pembayaran
 
 - **Bayar dalam ringgit** jika boleh, atau dalam mata wang yang ditawarkan dengan kadar paling baik. Jika dicaj dalam mata wang asing, semak yuran transaksi luar negara pada kad anda.
-- **Bandingkan kad.** Beberapa kad menyediakan perlindungan tambahan atau ganjaran. Lihat panduan kami tentang menukar duit dengan bijak.
+- **Bandingkan kad.** Beberapa kad menyediakan perlindungan tambahan atau ganjaran. Lihat panduan kami tentang [menukar duit dengan bijak](/wise-revolut-tunai-tukar-duit-jimat/).
 
 ## Kesilapan biasa
 
@@ -69,7 +69,7 @@ Tambang murah mungkin tidak termasuk bagasi, pemilihan tempat duduk, makanan dan
 3. **Bergantung pada mitos** seperti "padam kuki untuk harga murah". Tiada bukti kukuh bahawa ini sentiasa berfungsi.
 4. **Tidak mengambil kira kos ke lapangan terbang.**
 5. **Menempah masa transit terlalu singkat.**
-6. **Membeli insurans terlambat** atau tidak membeli langsung. Lihat panduan insurans kami.
+6. **Membeli insurans terlambat** atau tidak membeli langsung. Lihat [panduan insurans](/insurans-perjalanan-perlu-atau-tidak/) kami.
 
 ## Senarai semak ringkas
 

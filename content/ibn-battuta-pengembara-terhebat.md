@@ -42,7 +42,7 @@ Di Maldives, beliau dilantik sebagai hakim, dan dikahwinkan dengan keluarga temp
 
 ## Singgahan di Alam Melayu
 
-Dalam catatannya, Ibn Battuta menyebut persinggahan di Sumatera, termasuk di sebuah kerajaan Islam yang penting pada pantai utaranya. Kami tidak dapat menyemak butiran Sumatera dalam carian kami, tetapi catatan ini sering disebut dalam perbincangan tentang Islam awal di Asia Tenggara. Lihat juga artikel kami tentang Melaka sebagai pelabuhan dunia, yang bangkit selepas tempoh itu, dan tentang Laksamana Cheng Ho yang belayar pada abad ke-15.
+Dalam catatannya, Ibn Battuta menyebut persinggahan di Sumatera, termasuk di sebuah kerajaan Islam yang penting pada pantai utaranya. Kami tidak dapat menyemak butiran Sumatera dalam carian kami, tetapi catatan ini sering disebut dalam perbincangan tentang Islam awal di Asia Tenggara. Lihat juga artikel kami tentang [Melaka sebagai pelabuhan dunia](/melaka-pelabuhan-dunia/), yang bangkit selepas tempoh itu, dan tentang [Laksamana Cheng Ho](/laksamana-cheng-ho-pelayaran-agung/) yang belayar pada abad ke-15.
 
 ## China: bahagian yang paling sukar dipastikan
 
@@ -62,7 +62,7 @@ Pengembaraan pada zaman itu sangat berbahaya. Beliau menghadapi perompak, penyak
 
 ## Perbandingan dengan Marco Polo
 
-Marco Polo pulang ke Venice pada 1295, kira-kira tiga dekad sebelum Ibn Battuta bertolak, dan bukunya menjadi terkenal di Eropah. Ibn Battuta mengembara dalam dunia yang lebih luas yang dihubungkan oleh agama dan bahasa yang sama. Kedua-duanya meninggalkan catatan yang dikaji dan dipertikaikan. Baca artikel kami tentang Marco Polo untuk perbandingan.
+Marco Polo pulang ke Venice pada 1295, kira-kira tiga dekad sebelum Ibn Battuta bertolak, dan bukunya menjadi terkenal di Eropah. Ibn Battuta mengembara dalam dunia yang lebih luas yang dihubungkan oleh agama dan bahasa yang sama. Kedua-duanya meninggalkan catatan yang dikaji dan dipertikaikan. Baca artikel kami tentang [Marco Polo](/marco-polo-di-asia-fakta-dan-mitos/) untuk perbandingan.
 
 ## Apa yang boleh kita pelajari?
 

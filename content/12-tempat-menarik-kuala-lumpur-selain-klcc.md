@@ -25,7 +25,7 @@ Dibina pada **1909** di pertemuan Sungai Klang dan Sungai Gombak, ia salah satu 
 
 ## 4. Batu Caves
 
-Terletak kira-kira 13 kilometer di utara bandar, ia tapak ziarah Hindu yang terkenal dengan patung besar dan gua kapur. Pengunjung mendaki ratusan anak tangga untuk sampai ke gua utama. Ia sangat sesak semasa Thaipusam (lihat panduan festival kami). Berhati-hati dengan monyet yang suka merampas makanan. Pakai pakaian sopan dan kasut yang selesa.
+Terletak kira-kira 13 kilometer di utara bandar, ia tapak ziarah Hindu yang terkenal dengan patung besar dan gua kapur. Pengunjung mendaki ratusan anak tangga untuk sampai ke gua utama. Ia sangat sesak semasa Thaipusam (lihat [panduan festival](/festival-besar-asia-patut-disertai/) kami). Berhati-hati dengan monyet yang suka merampas makanan. Pakai pakaian sopan dan kasut yang selesa.
 
 ## 5. Kuil Thean Hou
 

@@ -17,7 +17,7 @@ Prinsip paling berkesan ialah makan di tempat yang penduduk tempatan makan. Rest
 - **Kedai yang sibuk** pada waktu makan.
 - **Harga yang jelas.**
 
-Contohnya, di Singapura, pusat penjaja ialah rahsia makan murah, seperti dalam panduan kami tentang Singapura. Di Jepun, kedai set (*teishoku*), kedai ramen dan kedai serbaneka menawarkan hidangan jimat.
+Contohnya, di Singapura, pusat penjaja ialah rahsia makan murah, seperti dalam panduan kami tentang [Singapura](/singapura-3-hari-2-malam-bajet/). Di Jepun, kedai set (*teishoku*), kedai ramen dan kedai serbaneka menawarkan hidangan jimat.
 
 ## 2. Gunakan pusat penjaja, pasar dan food court
 
@@ -25,7 +25,7 @@ Contohnya, di Singapura, pusat penjaja ialah rahsia makan murah, seperti dalam p
 - **Pasar pagi dan pasar malam** biasanya murah dan memberi peluang mencuba pelbagai hidangan.
 - **Pasar makanan** di banyak bandar Asia menawarkan makanan tempatan yang segar.
 
-Perhatikan halal. Banyak gerai menyajikan daging babi, jadi tanya dan cari tanda halal. Lihat panduan kami tentang halal dan solat.
+Perhatikan halal. Banyak gerai menyajikan daging babi, jadi tanya dan cari tanda halal. Lihat panduan kami tentang [halal dan solat](/cari-makanan-halal-dan-tempat-solat-semasa-melancong/).
 
 ## 3. Sarapan di penginapan atau kedai tempatan
 
@@ -50,7 +50,7 @@ Jika penginapan anda mempunyai dapur kecil, anda boleh memasak makanan ringkas s
 - **Restoran tanpa harga** yang jelas atau menu berbeza untuk pelancong.
 - **Makanan laut dijual mengikut berat** tanpa harga yang dinyatakan.
 - **Caj perkhidmatan** atau meja yang tidak diberitahu.
-- **Peragut dan penipuan** di kawasan sesak. Lihat artikel kami tentang cara mengelak penipuan pelancong.
+- **Peragut dan penipuan** di kawasan sesak. Lihat artikel kami tentang [cara mengelak penipuan pelancong](/cara-elak-scam-pelancong-di-asia/).
 
 ## 8. Minuman dan pencuci mulut
 
@@ -60,7 +60,7 @@ Jika penginapan anda mempunyai dapur kecil, anda boleh memasak makanan ringkas s
 
 ## 9. Rancang bajet makan
 
-Tetapkan anggaran makan harian dan jejaki perbelanjaan. Anda boleh membahagikan bajet: sarapan ringan, makan tengah hari utama, dan makan malam santai atau satu hidangan istimewa. Rujuk artikel kami tentang merancang percutian dengan bajet.
+Tetapkan anggaran makan harian dan jejaki perbelanjaan. Anda boleh membahagikan bajet: sarapan ringan, makan tengah hari utama, dan makan malam santai atau satu hidangan istimewa. Rujuk artikel kami tentang [merancang percutian dengan bajet](/cara-rancang-percutian-bajet-rm2000/).
 
 ## 10. Keselamatan makanan
 
@@ -69,7 +69,7 @@ Berjimat tidak bermakna mengorbankan kesihatan.
 - **Pastikan makanan dimasak panas.**
 - **Elakkan ais dan air yang sumbernya tidak jelas.**
 - **Cuci tangan** sebelum makan.
-- Bawa ubat asas untuk perut. Lihat artikel kami tentang first aid kit.
+- Bawa ubat asas untuk perut. Lihat artikel kami tentang [first aid kit](/isi-first-aid-kit-untuk-perjalanan/).
 
 ## Soalan lazim
 

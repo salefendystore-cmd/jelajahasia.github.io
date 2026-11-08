@@ -57,7 +57,7 @@ Populasi kucing yang besar di pulau terpencil membawa cabaran. Kucing bergantung
 
 ## Gabungkan dengan lawatan lain
 
-Ehime, tempat Aoshima berada, mempunyai bandar lain dan pemandangan tepi laut. Anda boleh menggabungkan lawatan dengan bandar berhampiran. Untuk panduan lain tentang Jepun, lihat artikel kami tentang Jepun kali pertama dan adat unik Jepun.
+Ehime, tempat Aoshima berada, mempunyai bandar lain dan pemandangan tepi laut. Anda boleh menggabungkan lawatan dengan bandar berhampiran. Untuk panduan lain tentang Jepun, lihat artikel kami tentang [Jepun kali pertama](/panduan-jepun-kali-pertama-itinerari-7-hari/) dan [adat unik Jepun](/adat-unik-jepun-pelancong-perlu-tahu/).
 
 ## Penutup
 

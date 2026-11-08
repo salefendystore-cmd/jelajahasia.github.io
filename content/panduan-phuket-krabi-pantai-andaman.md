@@ -59,7 +59,7 @@ Selatan Thailand mempunyai komuniti Muslim yang ketara, jadi makanan halal biasa
 - **Pilih bot dan pengendali yang berlesen**, dengan jaket keselamatan yang mencukupi. Jangan ragu-ragu membatalkan jika cuaca atau keadaan bot membimbangkan.
 - **Jaga alam sekitar.** Jangan memijak karang, membuang sampah atau memberi makan ikan.
 - **Pakai pelindung matahari yang mesra karang** jika ada.
-- **Berhati-hati dengan penyewaan skuter dan jet ski.** Rujuk artikel kami tentang cara mengelak penipuan pelancong.
+- **Berhati-hati dengan penyewaan skuter dan jet ski.** Rujuk artikel kami tentang [cara mengelak penipuan pelancong](/cara-elak-scam-pelancong-di-asia/).
 - **Semak syarat masuk Thailand dan sebarang yuran pelancong** yang mungkin dilaksanakan di laman rasmi.
 - **Beli insurans perjalanan** yang meliputi aktiviti air.
 

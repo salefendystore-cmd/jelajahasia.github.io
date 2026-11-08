@@ -17,7 +17,7 @@ Musim kemarau, kira-kira antara April hingga Oktober, lebih sesuai untuk melawat
 
 ## Candi Borobudur
 
-Borobudur ialah candi Buddha terbesar di dunia dan terletak di luar bandar Yogyakarta, kira-kira sejam hingga dua jam perjalanan ikut keadaan lalu lintas. Ia dibina pada akhir abad ke-8 hingga awal abad ke-9 di bawah dinasti Sailendra, dan disenaraikan sebagai Tapak Warisan Dunia UNESCO pada 1991. Untuk kisah penuh, baca artikel kami tentang sejarah Borobudur.
+Borobudur ialah candi Buddha terbesar di dunia dan terletak di luar bandar Yogyakarta, kira-kira sejam hingga dua jam perjalanan ikut keadaan lalu lintas. Ia dibina pada akhir abad ke-8 hingga awal abad ke-9 di bawah dinasti Sailendra, dan disenaraikan sebagai Tapak Warisan Dunia UNESCO pada 1991. Untuk kisah penuh, baca artikel kami tentang [sejarah Borobudur](/sejarah-borobudur/).
 
 ### Tiket dan peraturan
 Peraturan menaiki struktur candi telah berubah beberapa kali. Laporan menyebut pihak berkuasa menghadkan jumlah pengunjung yang boleh naik ke struktur dan memerlukan tempahan serta tiket berasingan untuk kawasan halaman dan untuk menaiki candi. Had harian dan harga dilaporkan dilaraskan dari semasa ke semasa. **Semak saluran tiket rasmi sebelum bertolak**, dan tempah awal jika anda mahu naik.

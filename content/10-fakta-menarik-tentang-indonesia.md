@@ -25,7 +25,7 @@ Komodo, spesies cicak terbesar yang masih hidup, hanya ditemui di Indonesia. **T
 
 ## 4. Borobudur ialah monumen Buddha terbesar di dunia
 
-Borobudur di Jawa Tengah dibina pada akhir abad ke-8 hingga awal abad ke-9, ditemui semula pada 1814 dan disenaraikan sebagai Tapak Warisan Dunia UNESCO pada 1991. Lihat artikel kami tentang sejarah Borobudur.
+Borobudur di Jawa Tengah dibina pada akhir abad ke-8 hingga awal abad ke-9, ditemui semula pada 1814 dan disenaraikan sebagai Tapak Warisan Dunia UNESCO pada 1991. Lihat artikel kami tentang [sejarah Borobudur](/sejarah-borobudur/).
 
 ## 5. Bilangan tapak warisan dunia berbeza mengikut sumber
 
@@ -37,15 +37,15 @@ Bahasa Indonesia ialah bahasa kebangsaan, dan ia digunakan sebagai bahasa perant
 
 ## 7. Jakarta ke Bandung dengan keretapi laju
 
-Indonesia melancarkan **Whoosh**, keretapi laju pertama di Asia Tenggara, yang menghubungkan Jakarta dan Bandung. Perkhidmatan komersial bermula pada 17 Oktober 2023, dan perjalanan dilaporkan sekitar 45 minit. Lihat artikel kami tentang keretapi laju Asia.
+Indonesia melancarkan **Whoosh**, keretapi laju pertama di Asia Tenggara, yang menghubungkan Jakarta dan Bandung. Perkhidmatan komersial bermula pada 17 Oktober 2023, dan perjalanan dilaporkan sekitar 45 minit. Lihat artikel kami tentang [keretapi laju Asia](/kereta-api-laju-asia-mengubah-perjalanan/).
 
 ## 8. Bali menerima hampir tujuh juta pelancong asing pada 2025
 
-Menurut BPS Bali, sekitar 6.95 juta ketibaan pelancong asing langsung direkodkan pada 2025, dengan Australia sebagai pasaran terbesar. Lihat artikel kami tentang ekonomi Bali.
+Menurut BPS Bali, sekitar 6.95 juta ketibaan pelancong asing langsung direkodkan pada 2025, dengan Australia sebagai pasaran terbesar. Lihat artikel kami tentang [ekonomi Bali](/ekonomi-bali-antara-berkat-dan-beban-pelancongan/).
 
 ## 9. Gunung Rinjani setinggi 3,726 meter
 
-Rinjani di Lombok, gunung berapi aktif dengan tasik kawah, menjadi destinasi trek yang popular. Trek memerlukan pemandu dan pembawa barang berlesen. Lihat artikel kami tentang Lombok lawan Bali.
+Rinjani di Lombok, gunung berapi aktif dengan tasik kawah, menjadi destinasi trek yang popular. Trek memerlukan pemandu dan pembawa barang berlesen. Lihat artikel kami tentang [Lombok lawan Bali](/lombok-vs-bali-pilih-mana/).
 
 ## 10. Kemerdekaan pada 17 Ogos 1945
 
@@ -53,7 +53,7 @@ Indonesia mengisytiharkan kemerdekaan pada **17 Ogos 1945**, dan tarikh ini disa
 
 ## Bonus: beberapa perkara lain
 
-- **Yogyakarta**: Paksi Kosmologi Yogyakarta dilaporkan dimasukkan ke dalam senarai warisan dunia UNESCO pada 2023. Lihat panduan kami tentang Yogyakarta dan Borobudur.
+- **Yogyakarta**: Paksi Kosmologi Yogyakarta dilaporkan dimasukkan ke dalam senarai warisan dunia UNESCO pada 2023. Lihat panduan kami tentang [Yogyakarta dan Borobudur](/panduan-yogyakarta-borobudur-prambanan/).
 - **Kepelbagaian budaya dan agama**: Bali majoriti Hindu, Lombok majoriti Muslim, dan banyak pulau lain mempunyai budaya sendiri.
 - **Gunung berapi**: Indonesia terletak di kawasan aktif, dan beberapa gunung berapi boleh mengubah status dengan cepat. Ikut amaran rasmi.
 

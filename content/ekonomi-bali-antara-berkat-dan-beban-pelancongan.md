@@ -41,7 +41,7 @@ Apa yang jelas ialah pelancongan menyokong sebahagian besar pekerjaan di pulau i
 
 ## Respons: levi dan peraturan
 
-Bali mengenakan **levi pelancong asing sebanyak IDR 150,000** seorang, yang dibayar melalui portal rasmi Love Bali, untuk membiayai pemuliharaan dan pengurusan pelancongan. Pihak berkuasa juga mengeluarkan panduan tingkah laku untuk pelancong. Perlu diingat bahawa butiran peraturan boleh berubah dan sumber kadangkala berbeza, jadi semak sumber rasmi. Lihat juga artikel kami tentang cukai dan caj pelancong di Asia.
+Bali mengenakan **levi pelancong asing sebanyak IDR 150,000** seorang, yang dibayar melalui portal rasmi Love Bali, untuk membiayai pemuliharaan dan pengurusan pelancongan. Pihak berkuasa juga mengeluarkan panduan tingkah laku untuk pelancong. Perlu diingat bahawa butiran peraturan boleh berubah dan sumber kadangkala berbeza, jadi semak sumber rasmi. Lihat juga artikel kami tentang [cukai dan caj pelancong di Asia](/cukai-pelancong-di-asia-apa-perlu-tahu/).
 
 ## Pelajaran daripada Bali
 
@@ -54,7 +54,7 @@ Bali mengenakan **levi pelancong asing sebanyak IDR 150,000** seorang, yang diba
 
 1. **Pilih penginapan dan perniagaan tempatan** apabila boleh.
 2. **Bayar levi dan caj rasmi** melalui saluran sah sahaja.
-3. **Hormati adat dan tempat suci.** Lihat panduan kami tentang etika melancong dan Bali.
+3. **Hormati adat dan tempat suci.** Lihat panduan kami tentang [etika melancong](/etika-melancong-hormati-budaya-tempatan/) dan [Bali](/panduan-bali-5-hari/).
 4. **Kurangkan sampah.** Bawa botol boleh isi semula.
 5. **Jangan beli produk daripada hidupan terancam.**
 6. **Pergi di luar waktu puncak** dan kawasan kurang sesak jika boleh.

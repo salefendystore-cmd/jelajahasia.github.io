@@ -21,19 +21,19 @@ Menurut laporan yang konsisten, **Cukai Pelancong Antarabangsa** Jepun dinaikkan
 Cukai ini biasanya dimasukkan dalam harga tiket, jadi anda mungkin tidak perasan, tetapi ia menaikkan kos penerbangan pulang.
 
 ### Perubahan bebas cukai November 2026
-Berasingan daripada cukai berlepas, sistem **bebas cukai** untuk pembelian pelancong di Jepun berubah mulai **1 November 2026**. Pelancong kini secara umum membayar harga termasuk cukai dahulu dan menuntut semula cukai pengguna 10 peratus semasa berlepas selepas pengesahan kastam. Ini bukan cukai baharu, tetapi mengubah aliran tunai anda. Lihat artikel kami tentang kenapa Jepun murah untuk pelancong.
+Berasingan daripada cukai berlepas, sistem **bebas cukai** untuk pembelian pelancong di Jepun berubah mulai **1 November 2026**. Pelancong kini secara umum membayar harga termasuk cukai dahulu dan menuntut semula cukai pengguna 10 peratus semasa berlepas selepas pengesahan kastam. Ini bukan cukai baharu, tetapi mengubah aliran tunai anda. Lihat artikel kami tentang [kenapa Jepun murah untuk pelancong](/kenapa-jepun-murah-untuk-pelancong-yen-lemah/).
 
 ## Kyoto: cukai penginapan berperingkat
 
-Mulai **1 Mac 2026**, Kyoto melaksanakan cukai penginapan berperingkat mengikut harga bilik. Kadar tertinggi ialah **¥10,000** seorang semalam bagi bilik ¥100,000 atau lebih, manakala bilik di bawah ¥6,000 kekal pada ¥200. Ia kenaikan pertama sejak cukai itu diperkenalkan pada 2018, dan hasilnya dijangka hampir dua kali ganda untuk membiayai pengurusan pelancongan. Untuk kisah penuh, baca artikel kami tentang overtourism dan Kyoto.
+Mulai **1 Mac 2026**, Kyoto melaksanakan cukai penginapan berperingkat mengikut harga bilik. Kadar tertinggi ialah **¥10,000** seorang semalam bagi bilik ¥100,000 atau lebih, manakala bilik di bawah ¥6,000 kekal pada ¥200. Ia kenaikan pertama sejak cukai itu diperkenalkan pada 2018, dan hasilnya dijangka hampir dua kali ganda untuk membiayai pengurusan pelancongan. Untuk kisah penuh, baca artikel kami tentang [overtourism dan Kyoto](/overtourism-kyoto-hadkan-pelancong/).
 
 ## Bali: levi pelancong asing
 
-Bali mengenakan **levi pelancong asing sebanyak IDR 150,000** seorang, yang dibayar melalui portal rasmi **Love Bali** dan menghasilkan kod QR untuk ditunjukkan semasa ketibaan. Sumber berbeza tentang beberapa butiran, seperti sama ada ia dibayar sekali setiap lawatan atau setiap kemasukan, dan sama ada kanak-kanak dikenakan bayaran. Berhati-hati dengan laman palsu dan bayar hanya melalui saluran rasmi. Lihat panduan kami tentang Bali.
+Bali mengenakan **levi pelancong asing sebanyak IDR 150,000** seorang, yang dibayar melalui portal rasmi **Love Bali** dan menghasilkan kod QR untuk ditunjukkan semasa ketibaan. Sumber berbeza tentang beberapa butiran, seperti sama ada ia dibayar sekali setiap lawatan atau setiap kemasukan, dan sama ada kanak-kanak dikenakan bayaran. Berhati-hati dengan laman palsu dan bayar hanya melalui saluran rasmi. Lihat panduan kami tentang [Bali](/panduan-bali-5-hari/).
 
 ## Bhutan: Yuran Pembangunan Mampan
 
-Bhutan mengenakan **Yuran Pembangunan Mampan (SDF)** setiap malam kepada kebanyakan pelancong asing. Kebanyakan sumber panduan 2026 menyebut kadar AS$100 seorang dewasa setiap malam sehingga 31 Ogos 2027 (separuh daripada kadar standard AS$200), tetapi satu sumber masih menyebut AS$200. Sahkan dengan Majlis Pelancongan Bhutan atau pengendali berlesen. Lihat artikel kami tentang kos melawat Bhutan.
+Bhutan mengenakan **Yuran Pembangunan Mampan (SDF)** setiap malam kepada kebanyakan pelancong asing. Kebanyakan sumber panduan 2026 menyebut kadar AS$100 seorang dewasa setiap malam sehingga 31 Ogos 2027 (separuh daripada kadar standard AS$200), tetapi satu sumber masih menyebut AS$200. Sahkan dengan Majlis Pelancongan Bhutan atau pengendali berlesen. Lihat artikel kami tentang [kos melawat Bhutan](/panduan-bhutan-negara-paling-bahagia/).
 
 ## Thailand: caj dan cadangan yuran
 

@@ -30,7 +30,7 @@ Fikir anda tahu banyak tentang Asia? Cuba kuiz 14 soalan ini. Semua jawapan berd
 
 ## Jawapan
 
-1. **Kira-kira 4,095.2 meter.** Lihat artikel kami tentang Sabah.
+1. **Kira-kira 4,095.2 meter.** Lihat artikel kami tentang [Sabah](/panduan-sabah-kinabalu-semporna-sandakan/).
 2. **2023.** UNESCO menyenaraikannya pada 6 Disember 2023.
 3. **Whoosh.** Perkhidmatan komersial bermula pada 17 Oktober 2023.
 4. **Hue.** Kompleks Monumen Hue disenaraikan pada 11 Disember 1993.

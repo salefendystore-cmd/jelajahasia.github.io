@@ -25,7 +25,7 @@ Musim bunga sakura (hujung Mac hingga awal April) dan musim luruh paling popular
 - **Sistem bebas cukai**: berubah mulai 1 November 2026. Pelancong kini secara umum membayar harga termasuk cukai dahulu dan menuntut cukai 10 peratus semasa berlepas.
 - **Pas JR**: harga melonjak kira-kira 65 hingga 70 peratus pada Oktober 2023, jadi ia tidak lagi sentiasa berbaloi.
 
-Lihat artikel kami tentang kenapa Jepun murah untuk pelancong dan cukai pelancong di Asia.
+Lihat artikel kami tentang [kenapa Jepun murah untuk pelancong](/kenapa-jepun-murah-untuk-pelancong-yen-lemah/) dan [cukai pelancong di Asia](/cukai-pelancong-di-asia-apa-perlu-tahu/).
 
 ## Laluan 7 hari yang disyorkan
 
@@ -33,7 +33,7 @@ Laluan klasik "Golden Route" menghubungkan Tokyo, Kyoto dan Osaka. Ia popular ke
 
 ### Hari 1 hingga 3: Tokyo
 - **Hari 1**: Tiba, daftar masuk, jalan-jalan di Shinjuku atau Shibuya. Cuba lintas di persimpangan Shibuya yang terkenal.
-- **Hari 2**: Kuil Senso-ji di Asakusa, kemudian Tokyo Skytree. Petangnya ke Akihabara jika anda suka anime dan elektronik. Untuk sejarah kawasan ini, baca artikel kami tentang Edo dan Tokyo.
+- **Hari 2**: Kuil Senso-ji di Asakusa, kemudian Tokyo Skytree. Petangnya ke Akihabara jika anda suka anime dan elektronik. Untuk sejarah kawasan ini, baca artikel kami tentang [Edo dan Tokyo](/dari-edo-ke-tokyo-sejarah-metropolis/).
 - **Hari 3**: Taman Shinjuku Gyoen atau Kuil Meiji pada waktu pagi, kemudian Harajuku dan Omotesando untuk membeli-belah.
 
 ### Hari 4: Hakone atau Gunung Fuji
@@ -42,15 +42,15 @@ Hari ini sesuai untuk keluar dari kesibukan bandar. Hakone terkenal dengan peman
 ### Hari 5 hingga 6: Kyoto
 - **Fushimi Inari** dengan ribuan pintu torii merah. Pergi awal pagi untuk mengelak keramaian. Ingat bahawa ia bukan salah satu tapak UNESCO Kyoto.
 - **Kinkaku-ji** (Kuil Emas) dan **Arashiyama**, termasuk hutan buluh.
-- **Gion** untuk suasana Jepun lama. Lihat etika di artikel kami tentang Kyoto dan adat Jepun.
+- **Gion** untuk suasana Jepun lama. Lihat etika di artikel kami tentang [Kyoto](/menjelajah-kyoto-kuil-kimono-kafe/) dan adat Jepun.
 
 ### Hari 7: Osaka
-Osaka terkenal dengan makanan jalanan. Singgah di Dotonbori, Istana Osaka dan Umeda. Jika masa cukup, lawat Universal Studios Japan. Lihat panduan lengkap kami tentang Osaka empat hari.
+Osaka terkenal dengan makanan jalanan. Singgah di Dotonbori, Istana Osaka dan Umeda. Jika masa cukup, lawat Universal Studios Japan. Lihat panduan lengkap kami tentang [Osaka](/itinerari-osaka-4-hari-makan-beli-belah/) empat hari.
 
 ## Pengangkutan
 
 ### Shinkansen
-Tokyo ke Kyoto menggunakan Nozomi biasanya mengambil masa sekitar dua jam lebih. Sumber berbeza sama ada Nozomi dilindungi pas JR, jadi semak syarat semasa. Bagi bagasi besar, peraturan Shinkansen mewajibkan tempat duduk dengan ruang bagasi besar bagi beg dengan jumlah tiga sisi antara 161 dan 250 sentimeter. Beg melebihi 250 sentimeter tidak dibenarkan. Beg bersaiz kabin tidak terjejas. Lihat panduan penuh kami tentang cara naik Shinkansen.
+Tokyo ke Kyoto menggunakan Nozomi biasanya mengambil masa sekitar dua jam lebih. Sumber berbeza sama ada Nozomi dilindungi pas JR, jadi semak syarat semasa. Bagi bagasi besar, peraturan Shinkansen mewajibkan tempat duduk dengan ruang bagasi besar bagi beg dengan jumlah tiga sisi antara 161 dan 250 sentimeter. Beg melebihi 250 sentimeter tidak dibenarkan. Beg bersaiz kabin tidak terjejas. Lihat panduan penuh kami tentang [cara naik Shinkansen](/cara-naik-shinkansen-dengan-betul/).
 
 ### Kad IC
 Untuk perjalanan bandar, **Suica** atau **Pasmo** boleh dimuat turun ke Wallet telefon iPhone, atau dibeli di stesen dan diisi nilai di mesin tiket. Kad ini digunakan untuk keretapi, subway, bas dan juga membeli di banyak kedai serbaneka. Butiran pembelian kad fizikal dan nilai awalnya berubah dari semasa ke semasa, jadi semak di stesen.
@@ -60,19 +60,19 @@ Kira dahulu harga tiket Shinkansen Tokyo ke Kyoto dan Kyoto ke Osaka secara bera
 
 ## Anggaran bajet
 
-Bajet berbeza mengikut gaya. Pelancong sederhana biasanya menyediakan belanja harian untuk makanan, pengangkutan tempatan dan tiket masuk, selain kos penerbangan dan penginapan. Kadar tukaran yen berubah-ubah, jadi semak kadar terkini sebelum bertolak. Lihat panduan kami tentang merancang percutian dengan bajet dan cara berjimat makan di luar negara.
+Bajet berbeza mengikut gaya. Pelancong sederhana biasanya menyediakan belanja harian untuk makanan, pengangkutan tempatan dan tiket masuk, selain kos penerbangan dan penginapan. Kadar tukaran yen berubah-ubah, jadi semak kadar terkini sebelum bertolak. Lihat panduan kami tentang [merancang percutian dengan bajet](/cara-rancang-percutian-bajet-rm2000/) dan [cara berjimat makan di luar negara](/cara-berjimat-makan-di-luar-negara/).
 
 ## Makanan halal
 
-Pilihan halal semakin banyak, terutamanya di Tokyo, Kyoto dan Osaka. Cari restoran bersijil halal atau restoran mesra Muslim melalui aplikasi seperti Google Maps. Menurut maklumat pelancongan Jepun, tiada agensi akreditasi halal pusat di Jepun, jadi sijil berbeza dari satu pihak ke pihak lain, dan anda perlu menilai sendiri. Banyak makanan Jepun menggunakan mirin, sake atau dashi daripada ikan, dan sebahagian mengandungi alkohol. Lihat panduan kami tentang halal dan solat semasa melancong.
+Pilihan halal semakin banyak, terutamanya di Tokyo, Kyoto dan Osaka. Cari restoran bersijil halal atau restoran mesra Muslim melalui aplikasi seperti Google Maps. Menurut maklumat pelancongan Jepun, tiada agensi akreditasi halal pusat di Jepun, jadi sijil berbeza dari satu pihak ke pihak lain, dan anda perlu menilai sendiri. Banyak makanan Jepun menggunakan mirin, sake atau dashi daripada ikan, dan sebahagian mengandungi alkohol. Lihat panduan kami tentang [halal dan solat semasa melancong](/cari-makanan-halal-dan-tempat-solat-semasa-melancong/).
 
 ## Tips tambahan
 
 1. Bawa wang tunai yen, kerana sesetengah kedai kecil masih tidak menerima kad.
 2. Pakai kasut yang selesa. Anda akan berjalan 15,000 langkah atau lebih sehari.
 3. Bercakap perlahan di dalam keretapi dan elakkan makan sambil berjalan di kawasan awam.
-4. Beli eSIM atau SIM data sebelum tiba. Lihat panduan eSIM kami.
-5. Muat turun aplikasi peta dan jadual keretapi. Lihat artikel kami tentang aplikasi wajib.
+4. Beli eSIM atau SIM data sebelum tiba. Lihat [panduan eSIM](/esim-vs-sim-card-pelancong/) kami.
+5. Muat turun aplikasi peta dan jadual keretapi. Lihat artikel kami tentang [aplikasi wajib](/aplikasi-wajib-ada-ketika-melancong/).
 6. Semak syarat visa dan kemasukan terkini sebelum menempah tiket.
 7. Beli insurans perjalanan.
 

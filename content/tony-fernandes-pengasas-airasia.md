@@ -17,7 +17,7 @@ Menurut beberapa profil, **Tony Fernandes** dilahirkan pada **30 April 1964** di
 
 ## Membeli AirAsia
 
-Apabila Time Warner mengumumkan penggabungan dengan AOL, beliau dilaporkan meninggalkan syarikat itu untuk mengejar impiannya membina syarikat penerbangan tambang murah. Pada 2001, bersama rakan kongsi, beliau mengambil alih AirAsia, syarikat penerbangan kecil yang sarat hutang, dengan harga **satu ringgit**, sambil menanggung hutangnya. Sumber berbeza tentang tarikh tepat, ada yang menyebut September 2001, ada yang menyebut Disember 2001. Rujuk artikel kami tentang bagaimana syarikat tambang murah mengubah cara kita terbang untuk model perniagaan di sebaliknya.
+Apabila Time Warner mengumumkan penggabungan dengan AOL, beliau dilaporkan meninggalkan syarikat itu untuk mengejar impiannya membina syarikat penerbangan tambang murah. Pada 2001, bersama rakan kongsi, beliau mengambil alih AirAsia, syarikat penerbangan kecil yang sarat hutang, dengan harga **satu ringgit**, sambil menanggung hutangnya. Sumber berbeza tentang tarikh tepat, ada yang menyebut September 2001, ada yang menyebut Disember 2001. Rujuk artikel kami tentang bagaimana syarikat [tambang murah mengubah cara kita terbang](/bagaimana-tambang-murah-mengubah-cara-terbang/) untuk model perniagaan di sebaliknya.
 
 ## Membina kumpulan
 
@@ -41,7 +41,7 @@ Beliau juga sering disebut dalam konteks sukan dan pelaburan lain, seperti kelab
 
 ## Kesan kepada pelancong
 
-Bagi pelancong Malaysia, AirAsia membuka akses ke banyak destinasi serantau pada harga yang sebelum ini mustahil. Tetapi model tambang murah juga bermakna anda perlu memahami caj tambahan, bagasi dan syarat. Lihat panduan kami tentang cara mencari tiket penerbangan murah dan waktu terbaik membeli tiket.
+Bagi pelancong Malaysia, AirAsia membuka akses ke banyak destinasi serantau pada harga yang sebelum ini mustahil. Tetapi model tambang murah juga bermakna anda perlu memahami caj tambahan, bagasi dan syarat. Lihat panduan kami tentang [cara mencari tiket penerbangan murah](/cara-cari-tiket-penerbangan-murah-ke-asia/) dan [waktu terbaik membeli tiket](/bila-waktu-terbaik-beli-tiket-penerbangan/).
 
 ## Penutup
 

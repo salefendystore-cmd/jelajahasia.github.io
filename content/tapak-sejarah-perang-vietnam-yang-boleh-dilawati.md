@@ -55,7 +55,7 @@ Cu Chi biasanya memerlukan separuh hari termasuk perjalanan.
 - **Semak waktu buka dan tiket.** Muzium mungkin tutup pada hari tertentu.
 - **Tempah pemandu berlesen** jika anda mahu penerangan terperinci.
 - **Rancang kapasiti emosi anda.** Tapak ini mungkin berat. Beri masa untuk berehat.
-- Lihat panduan kami tentang Vietnam untuk syarat masuk, pengangkutan dan makanan.
+- Lihat panduan kami tentang [Vietnam untuk syarat](/panduan-backpacker-vietnam-hanoi-ho-chi-minh/) masuk, pengangkutan dan makanan.
 
 ## Mengapa ia penting?
 

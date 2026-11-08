@@ -74,7 +74,7 @@ CDC menyenaraikan serbuk elektrolit oral untuk cirit-birit atau muntah yang sede
 2. **Periksa tarikh luput** ubat.
 3. **Semak peraturan masuk** negara destinasi tentang ubat dan peralatan perubatan. Sesetengah ubat bebas di Malaysia mungkin dihadkan atau dilarang di tempat lain.
 4. **Jangan mendiagnosis sendiri** keadaan serius. Jika demam tinggi, kesukaran bernafas, sakit dada, muntah berterusan atau tanda dehidrasi, dapatkan bantuan perubatan.
-5. **Insurans perjalanan.** Pastikan anda tahu cara menghubungi talian bantuan mereka. Lihat artikel kami tentang insurans perjalanan.
+5. **Insurans perjalanan.** Pastikan anda tahu cara menghubungi talian bantuan mereka. Lihat artikel kami tentang [insurans perjalanan](/insurans-perjalanan-perlu-atau-tidak/).
 
 ## Kit untuk jenis perjalanan berbeza
 

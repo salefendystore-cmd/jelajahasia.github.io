@@ -13,7 +13,7 @@ Setiap tempat mempunyai adat dan peraturan yang tidak tertulis. Sebagai pelancon
 ## Mengapa etika penting?
 
 - **Ia menunjukkan rasa hormat** kepada penduduk yang hidup di tempat yang anda lawati.
-- **Ia mengurangkan konflik.** Beberapa destinasi popular menghadapi tekanan daripada pelancong, dan mengenakan peraturan serta caj tambahan. Lihat artikel kami tentang overtourism dan Kyoto.
+- **Ia mengurangkan konflik.** Beberapa destinasi popular menghadapi tekanan daripada pelancong, dan mengenakan peraturan serta caj tambahan. Lihat artikel kami tentang [overtourism dan Kyoto](/overtourism-kyoto-hadkan-pelancong/).
 - **Ia memperkayakan pengalaman.** Apabila anda memahami adat, anda dilayan dengan lebih mesra.
 
 ## 1. Pakaian dan penampilan
@@ -53,7 +53,7 @@ Setiap tempat mempunyai adat dan peraturan yang tidak tertulis. Sebagai pelancon
 
 ## 6. Haiwan dan alam sekitar
 
-- **Jangan memberi makan atau menyentuh hidupan liar.** Lihat panduan kami tentang gajah di Thailand, dan peringatan tentang monyet di Bali dan Batu Caves.
+- **Jangan memberi makan atau menyentuh hidupan liar.** Lihat panduan kami tentang gajah di Thailand, dan peringatan tentang monyet di [Bali](/panduan-bali-5-hari/) dan Batu Caves.
 - **Elakkan tunggangan gajah** dan pertunjukan yang menyakiti haiwan.
 - **Jangan memijak karang** atau membuang sampah. Peraturan baharu di Maya Bay wujud kerana kerosakan yang pernah berlaku.
 - **Bawa pulang sampah anda**, terutamanya di Jepun di mana tong sampah awam jarang.
@@ -61,7 +61,7 @@ Setiap tempat mempunyai adat dan peraturan yang tidak tertulis. Sebagai pelancon
 ## 7. Wang dan pelancongan bertanggungjawab
 
 - **Berbelanja di perniagaan tempatan** seperti kedai makan kecil, kraf dan pemandu tempatan.
-- **Bayar caj dan cukai pelancong** dengan rela. Ia biasanya digunakan untuk mengurus pelancongan. Rujuk artikel kami tentang cukai dan caj pelancong di Asia.
+- **Bayar caj dan cukai pelancong** dengan rela. Ia biasanya digunakan untuk mengurus pelancongan. Rujuk artikel kami tentang [cukai dan caj pelancong di Asia](/cukai-pelancong-di-asia-apa-perlu-tahu/).
 - **Elakkan membeli barangan yang dibuat daripada hidupan terancam.**
 - **Pilih penyedia perkhidmatan yang beretika.**
 

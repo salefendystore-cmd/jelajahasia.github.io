@@ -32,7 +32,7 @@ Mahu melihat semuanya dalam masa singkat mengakibatkan keletihan dan hanya sempa
 
 Penyakit atau kemalangan di luar negara boleh sangat mahal. Barang hilang dan penerbangan lewat juga boleh menjejaskan bajet.
 
-**Penyelesaian**: Bandingkan polisi, baca pengecualian dan pilih yang sesuai dengan perjalanan anda. Lihat artikel kami tentang insurans perjalanan.
+**Penyelesaian**: Bandingkan polisi, baca pengecualian dan pilih yang sesuai dengan perjalanan anda. Lihat artikel kami tentang [insurans perjalanan](/insurans-perjalanan-perlu-atau-tidak/).
 
 ## 5. Menukar wang dengan cara yang kurang bijak
 
@@ -62,7 +62,7 @@ Berpakaian tidak sesuai di tempat ibadat, bercakap kuat di pengangkutan awam ata
 
 Kebanyakan orang baik, tetapi di tempat pelancongan ada yang mencari peluang, seperti menawarkan "tempat istimewa" atau mengatakan atraksi sudah tutup.
 
-**Penyelesaian**: Sahkan sendiri maklumat di sumber rasmi dan tolak dengan sopan. Lihat artikel kami tentang cara mengelak penipuan pelancong di Asia.
+**Penyelesaian**: Sahkan sendiri maklumat di sumber rasmi dan tolak dengan sopan. Lihat artikel kami tentang [cara mengelak penipuan pelancong di Asia](/cara-elak-scam-pelancong-di-asia/).
 
 ## 10. Tidak menyimpan salinan dokumen penting
 

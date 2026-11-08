@@ -61,7 +61,7 @@ Elakkan membawa terlalu banyak. Anda boleh membeli barang seperti lampin di dest
 ## Makanan dan halal
 
 - Bawa **makanan ringan dan makanan sandaran** yang anak biasa makan.
-- Rujuk panduan kami tentang mencari makanan halal dan tempat solat.
+- Rujuk panduan kami tentang [mencari makanan halal dan tempat solat](/cari-makanan-halal-dan-tempat-solat-semasa-melancong/).
 - Cuci tangan sebelum makan, dan pastikan air minuman selamat.
 - Jika anak sensitif atau alah terhadap makanan tertentu, bawa kad terjemahan atau gambar yang menerangkan alahan itu.
 

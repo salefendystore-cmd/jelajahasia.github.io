@@ -55,7 +55,7 @@ Sejak 1 Mac 2026, Kyoto melaksanakan cukai penginapan berperingkat, dengan kadar
 - **Bas** menghubungkan banyak tarikan tetapi sering sesak. Pertimbangkan subway dan keretapi untuk jarak lebih jauh.
 - **Berjalan kaki dan berbasikal** sesuai di kawasan seperti Higashiyama dan sepanjang sungai.
 - **Teksi** mudah untuk kumpulan atau pada waktu sesak jika bajet membenarkan.
-- Dari Tokyo atau Osaka, **Shinkansen** menghubungkan Kyoto dengan pantas. Rujuk artikel kami tentang cara naik Shinkansen.
+- Dari Tokyo atau Osaka, **Shinkansen** menghubungkan Kyoto dengan pantas. Rujuk artikel kami tentang [cara naik Shinkansen](/cara-naik-shinkansen-dengan-betul/).
 
 ## Cadangan itinerari 3 hari
 

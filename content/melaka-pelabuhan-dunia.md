@@ -25,7 +25,7 @@ Pelabuhan Melaka terkenal dengan pentadbirannya. Menurut *Sejarah Melayu*, terda
 
 ## Hubungan dengan China dan dunia Islam
 
-Melaka menjalin hubungan diplomatik dengan Dinasti Ming. Pelayaran armada Laksamana Cheng Ho singgah di Melaka, dan hubungan ini dipercayai membantu kerajaan yang baharu itu mendapat perlindungan politik. Lihat artikel kami tentang Laksamana Cheng Ho. Pada masa yang sama, Islam berkembang di Melaka dan menarik pedagang Muslim dari India, Parsi dan Arab, menjadikan Melaka pusat perdagangan dan penyebaran ilmu di Alam Melayu. Nama-nama seperti Hang Tuah, yang kisahnya dibincangkan di blog ini, juga dikaitkan dengan zaman keemasan ini, walaupun statusnya sebagai tokoh sejarah masih dipertikaikan.
+Melaka menjalin hubungan diplomatik dengan Dinasti Ming. Pelayaran armada Laksamana Cheng Ho singgah di Melaka, dan hubungan ini dipercayai membantu kerajaan yang baharu itu mendapat perlindungan politik. Lihat artikel kami tentang [Laksamana Cheng Ho](/laksamana-cheng-ho-pelayaran-agung/). Pada masa yang sama, Islam berkembang di Melaka dan menarik pedagang Muslim dari India, Parsi dan Arab, menjadikan Melaka pusat perdagangan dan penyebaran ilmu di Alam Melayu. Nama-nama seperti Hang Tuah, yang kisahnya dibincangkan di blog ini, juga dikaitkan dengan zaman keemasan ini, walaupun statusnya sebagai tokoh sejarah masih dipertikaikan.
 
 ## 1511: kejatuhan kepada Portugis
 
@@ -37,7 +37,7 @@ Pada **1641**, Syarikat Hindia Timur Belanda (VOC) mengambil alih Melaka dengan 
 
 ## 1824: zaman British
 
-Pada **1824**, melalui **Perjanjian Anglo-Belanda**, Melaka diserahkan kepada British. Ia kemudian menjadi sebahagian Negeri-Negeri Selat bersama Pulau Pinang dan Singapura. Lihat artikel kami tentang sejarah Singapura untuk bagaimana ketiga-tiga pelabuhan ini saling berkait.
+Pada **1824**, melalui **Perjanjian Anglo-Belanda**, Melaka diserahkan kepada British. Ia kemudian menjadi sebahagian Negeri-Negeri Selat bersama Pulau Pinang dan Singapura. Lihat artikel kami tentang [sejarah Singapura](/sejarah-singapura-dari-temasek-ke-hab-dunia/) untuk bagaimana ketiga-tiga pelabuhan ini saling berkait.
 
 ## Warisan hari ini
 
@@ -47,7 +47,7 @@ Pada **2008**, Melaka dan George Town disenaraikan sebagai Tapak Warisan Dunia U
 
 - **Dataran Belanda** dan bangunan merah di sekitarnya, dengan Gereja Christ (1753).
 - **Bukit St Paul** dan Porta de Santiago, peninggalan kubu A Famosa. Naik pada waktu pagi atau petang untuk mengelak panas.
-- **Sungai Melaka**. Pelayaran santai atau berjalan di tepi sungai menunjukkan bangunan lama dan mural. Lihat juga panduan kami tentang George Town untuk bandar warisan kembar Melaka.
+- **Sungai Melaka**. Pelayaran santai atau berjalan di tepi sungai menunjukkan bangunan lama dan mural. Lihat juga panduan kami tentang [George Town](/panduan-george-town-pulau-pinang/) untuk bandar warisan kembar Melaka.
 - **Jonker Street** dan kawasan sekitar untuk kedai, kafe dan pasar malam hujung minggu.
 - **Muzium** yang menerangkan sejarah maritim dan budaya, termasuk yang berkait dengan Cheng Ho. Semak waktu buka.
 

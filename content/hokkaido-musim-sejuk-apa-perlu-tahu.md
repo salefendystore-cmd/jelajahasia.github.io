@@ -58,7 +58,7 @@ Dalam bangunan, pemanas biasanya sangat kuat, jadi pakaian berlapis yang mudah d
 
 ## Makanan dan halal
 
-Hokkaido terkenal dengan hasil laut, kentang, jagung, tenusu dan sup kari. Pelancong Muslim boleh mencari pilihan halal di Sapporo dan beberapa bandar, tetapi ia lebih terhad berbanding Tokyo atau Osaka. Rujuk artikel kami tentang cara mencari makanan halal dan tempat solat semasa melancong. Hidangan sup dan ramen sering menggunakan lemak atau perasa babi, jadi tanya dengan teliti.
+Hokkaido terkenal dengan hasil laut, kentang, jagung, tenusu dan sup kari. Pelancong Muslim boleh mencari pilihan halal di Sapporo dan beberapa bandar, tetapi ia lebih terhad berbanding Tokyo atau Osaka. Rujuk artikel kami tentang [cara mencari makanan halal dan tempat solat semasa melancong](/cari-makanan-halal-dan-tempat-solat-semasa-melancong/). Hidangan sup dan ramen sering menggunakan lemak atau perasa babi, jadi tanya dengan teliti.
 
 ## Tips tambahan
 

@@ -43,9 +43,9 @@ Tiket sering menjadi kos terbesar. Beberapa strategi:
 1. **Fleksibel dengan tarikan.** Hari bekerja biasanya lebih murah daripada hujung minggu.
 2. **Elakkan musim puncak** seperti cuti sekolah dan perayaan.
 3. **Gunakan amaran harga** dan alat perbandingan.
-4. **Kira bagasi dan kos tambahan.** Rujuk artikel kami tentang cara mencari tiket penerbangan murah.
+4. **Kira bagasi dan kos tambahan.** Rujuk artikel kami tentang [cara mencari tiket penerbangan murah](/cara-cari-tiket-penerbangan-murah-ke-asia/).
 5. **Pertimbangkan lapangan terbang alternatif** tetapi kira kos pengangkutan ke bandar.
-6. **Bagasi kabin sahaja** menjimatkan yuran. Lihat panduan bagasi kabin kami.
+6. **Bagasi kabin sahaja** menjimatkan yuran. Lihat [panduan bagasi kabin](/panduan-bagasi-kabin-sahaja/) kami.
 
 ## Jimatkan penginapan
 
@@ -60,7 +60,7 @@ Tiket sering menjadi kos terbesar. Beberapa strategi:
 - Makan di **kedai tempatan, pusat penjaja dan pasar** berbanding restoran pelancong.
 - **Sarapan di penginapan** jika disertakan.
 - **Beli air dan makanan ringan** di kedai serbaneka, bukan di tarikan pelancong.
-- **Tahu cara memilih makanan halal** supaya tidak membazir. Rujuk artikel kami tentang makanan halal dan tempat solat.
+- **Tahu cara memilih makanan halal** supaya tidak membazir. Rujuk artikel kami tentang [makanan halal dan tempat solat](/cari-makanan-halal-dan-tempat-solat-semasa-melancong/).
 
 ## Jimatkan pengangkutan dan aktiviti
 
@@ -72,7 +72,7 @@ Tiket sering menjadi kos terbesar. Beberapa strategi:
 ## Kesilapan yang boleh menghabiskan bajet
 
 1. **Membeli tanpa membandingkan**, terutamanya tiket dan hotel.
-2. **Mengabaikan kos kecil** seperti bayaran ATM, caj kad dan tambang lapangan terbang. Lihat artikel kami tentang menukar duit dengan bijak.
+2. **Mengabaikan kos kecil** seperti bayaran ATM, caj kad dan tambang lapangan terbang. Lihat artikel kami tentang [menukar duit dengan bijak](/wise-revolut-tunai-tukar-duit-jimat/).
 3. **Tidak merancang makan.** Makan di restoran pelancong setiap hari menghakis bajet.
 4. **Tidak ada dana kecemasan.**
 5. **Membeli cenderamata berlebihan.**

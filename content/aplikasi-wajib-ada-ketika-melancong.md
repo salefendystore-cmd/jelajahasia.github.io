@@ -14,7 +14,7 @@ Telefon pintar kini menjadi kunci perjalanan: peta, tiket, terjemahan, pembayara
 
 Peta ialah aplikasi paling penting.
 - **Google Maps** digunakan secara meluas dan membolehkan anda memuat turun peta untuk kegunaan luar talian. Muat turun kawasan sebelum bertolak.
-- Di sesetengah negara, aplikasi tempatan lebih tepat. Contohnya, panduan kami tentang Korea Selatan menyebut bahawa aplikasi seperti **Naver Map** atau **KakaoMap** lebih sesuai untuk arah berjalan kaki dan pengangkutan awam di sana.
+- Di sesetengah negara, aplikasi tempatan lebih tepat. Contohnya, panduan kami tentang [Korea Selatan](/10-fakta-menarik-tentang-korea-selatan/) menyebut bahawa aplikasi seperti **Naver Map** atau **KakaoMap** lebih sesuai untuk arah berjalan kaki dan pengangkutan awam di sana.
 - **Aplikasi jadual keretapi tempatan** sangat berguna di negara seperti Jepun, di mana sistem keretapi kompleks.
 
 **Tip:** Simpan lokasi penginapan, stesen dan tempat penting sebelum bertolak.
@@ -36,7 +36,7 @@ Terjemahan automatik tidak sempurna. Untuk perkara penting seperti alahan atau b
 ## 4. Penginapan dan tempahan
 
 - **Aplikasi tempahan hotel** untuk memantau tempahan dan menghubungi penginapan.
-- **Aplikasi perbandingan penerbangan** untuk amaran harga. Lihat artikel kami tentang waktu terbaik membeli tiket.
+- **Aplikasi perbandingan penerbangan** untuk amaran harga. Lihat artikel kami tentang [waktu terbaik membeli tiket](/bila-waktu-terbaik-beli-tiket-penerbangan/).
 - **Aplikasi syarikat penerbangan** untuk daftar masuk dalam talian, pas masuk dan notifikasi pintu berlepas.
 
 ## 5. Wang dan pembayaran
@@ -46,18 +46,18 @@ Terjemahan automatik tidak sempurna. Untuk perkara penting seperti alahan atau b
 - **Penukar mata wang** untuk membuat pengiraan cepat.
 - **Aplikasi catatan perbelanjaan** supaya anda boleh menjejak bajet.
 
-Rujuk panduan kami tentang cara menukar duit dengan bijak.
+Rujuk panduan kami tentang [cara menukar duit dengan bijak](/wise-revolut-tunai-tukar-duit-jimat/).
 
 ## 6. Komunikasi
 
 - **Aplikasi pesanan** seperti WhatsApp untuk menghubungi keluarga dan kumpulan.
-- **eSIM atau SIM tempatan** untuk data. Lihat artikel kami tentang eSIM lawan SIM.
+- **eSIM atau SIM tempatan** untuk data. Lihat artikel kami tentang [eSIM lawan SIM](/esim-vs-sim-card-pelancong/).
 - **Aplikasi panggilan internet** untuk menghubungi hotel atau pemandu.
 
 ## 7. Makanan dan halal
 
 - **Aplikasi ulasan restoran** dan peta untuk mencari tempat makan.
-- **Aplikasi halal dan mesra Muslim** untuk mencari restoran dan masjid. Ingat bahawa senarai tidak selalu kemas kini dan status halal berbeza antara sumber. Lihat panduan kami tentang mencari makanan halal dan tempat solat.
+- **Aplikasi halal dan mesra Muslim** untuk mencari restoran dan masjid. Ingat bahawa senarai tidak selalu kemas kini dan status halal berbeza antara sumber. Lihat panduan kami tentang [mencari makanan halal dan tempat solat](/cari-makanan-halal-dan-tempat-solat-semasa-melancong/).
 - **Aplikasi waktu solat dan kiblat.**
 
 ## 8. Keselamatan dan kesihatan
