@@ -48,9 +48,19 @@ function md(src) {
   const flush = () => { if (para.length) { out.push(`<p>${inline(para.join(' '))}</p>`); para = []; } };
   const closeList = () => { if (list) { out.push(`</${list}>`); list = null; } };
   const headings = []; const usedIds = {};
-  for (const raw of lines) {
+  const cells = r => r.trim().replace(/^\|/, '').replace(/\|$/, '').split('|').map(c => c.trim());
+  for (let i = 0; i < lines.length; i++) {
+    const raw = lines[i];
     const l = raw.trimEnd();
     let m;
+    if (l.trim().startsWith('|') && lines[i + 1] && /^\s*\|?\s*:?-{2,}:?\s*(\|\s*:?-{2,}:?\s*)*\|?\s*$/.test(lines[i + 1])) {
+      flush(); closeList();
+      const head = cells(l); const rows = []; i += 2;
+      while (i < lines.length && lines[i].trim().startsWith('|')) { rows.push(cells(lines[i])); i++; }
+      i--;
+      out.push(`<div class="tbl"><table><thead><tr>${head.map(h => `<th>${inline(h)}</th>`).join('')}</tr></thead><tbody>${rows.map(r => `<tr>${r.map(c => `<td>${inline(c)}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`);
+      continue;
+    }
     if (!l.trim()) { flush(); closeList(); continue; }
     if ((m = l.match(/^(#{2,3})\s+(.*)/))) {
       flush(); closeList();
@@ -183,7 +193,10 @@ article h1{font-family:Fraunces,Georgia,serif;font-size:clamp(28px,5vw,42px);lin
 .prose ul,.prose ol{margin:0 0 20px;padding-left:24px}.prose li{margin-bottom:8px}
 .prose a{color:var(--teal);text-decoration:underline}
 .prose blockquote{border-left:4px solid var(--teal-l);background:var(--sand);padding:14px 18px;border-radius:0 12px 12px 0;margin:0 0 20px}
-.prose table{border-collapse:collapse;width:100%;margin:0 0 20px;font-size:16px;display:block;overflow-x:auto}
+.tbl{overflow-x:auto;margin:0 0 20px;-webkit-overflow-scrolling:touch}
+.prose table{border-collapse:collapse;width:100%;min-width:480px;font-size:15.5px}
+.prose th,.prose td{border:1px solid var(--line);padding:10px 12px;text-align:left;vertical-align:top;line-height:1.5}
+.prose th{background:var(--sand);color:var(--navy);font-weight:700}
 .toc{background:var(--sand);border-radius:14px;padding:16px 20px;margin-bottom:28px;font-size:15px}
 .toc b{display:block;margin-bottom:6px}.toc a{display:block;padding:4px 0;color:var(--teal)}
 .crumb{font-size:14px;color:var(--mute)}.crumb a:hover{color:var(--teal)}
