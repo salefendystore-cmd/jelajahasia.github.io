@@ -55,7 +55,7 @@ Beberapa dakwaan yang sering ditemui perlu disemak dengan teliti:
 
 Buku Marco Polo menginspirasikan peta, ekspedisi dan impian pengembara selama berabad-abad. Nama beliau digunakan pada lapangan terbang di Venice, ribuan produk dan banyak kisah. Dalam konteks Asia Tenggara, perjalanan laut pulangnya yang menyebut Sumatera memberi gambaran awal bagaimana wilayah kita dilihat oleh orang luar pada zaman itu.
 
-Bagi pembaca Muslim, kita juga boleh membandingkannya dengan Ibn Battuta yang mengembara kira-kira satu abad kemudian dan merentasi jarak yang lebih jauh.
+Bagi pembaca Muslim, kita juga boleh membandingkannya dengan Ibn Battuta yang bertolak kira-kira tiga dekad selepas Marco Polo pulang ke Venice dan mengembara lebih jauh.
 
 ## Penutup
 
