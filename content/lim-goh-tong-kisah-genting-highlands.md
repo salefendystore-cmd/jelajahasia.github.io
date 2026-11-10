@@ -3,7 +3,7 @@ title: Lim Goh Tong: Dari Pekerja Kontrak ke Pengasas Genting Highlands
 description: Kisah Tan Sri Lim Goh Tong, perantau dari Fujian yang membina jalan ke puncak Gunung Ulu Kali dan mengasaskan Genting Highlands, daripada kerja binaan hingga peranannya dalam industri pelancongan Malaysia.
 category: personaliti
 image: lim-goh-tong-kisah-genting-highlands.jpg
-credit: Foto oleh *angys*, CC BY-SA 4.0, melalui Wikimedia Commons
+credit: Foto oleh hamimadam di Pixabay
 negara: Malaysia
 imageq: Genting Highlands
 date: 2026-11-15

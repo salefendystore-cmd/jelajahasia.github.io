@@ -3,7 +3,7 @@ title: 10 Fakta Menarik tentang Vietnam
 description: Sepuluh fakta menarik tentang Vietnam, daripada gua terbesar dunia Son Doong dan Teluk Ha Long hingga eksport kopi, tulisan rumi, motosikal, pho dan budaya Tet.
 category: fakta-menarik
 image: 10-fakta-menarik-tentang-vietnam.jpg
-credit: Foto oleh Vyacheslav Argenberg, CC BY 4.0, melalui Wikimedia Commons
+credit: Foto oleh xuanduongvan87 di Pixabay
 negara: Vietnam
 imageq: Ha Long Bay
 date: 2026-11-13

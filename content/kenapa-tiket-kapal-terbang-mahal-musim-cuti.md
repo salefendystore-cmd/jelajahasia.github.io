@@ -3,7 +3,7 @@ title: Kenapa Tiket Kapal Terbang Mahal pada Musim Cuti Sekolah?
 description: Penjelasan ekonomi di sebalik harga tiket kapal terbang yang melonjak pada musim cuti sekolah dan perayaan, termasuk harga dinamik, kelas tambang, kapasiti dan permintaan, serta strategi praktikal untuk keluarga Malaysia.
 category: ekonomi
 image: kenapa-tiket-kapal-terbang-mahal-musim-cuti.jpg
-credit: Foto oleh No Swan So Fine, CC BY-SA 4.0, melalui Wikimedia Commons
+credit: Foto oleh JESHOOTS-com di Pixabay
 negara: Malaysia
 imageq: Kuala Lumpur International Airport terminal
 date: 2026-11-14

@@ -3,7 +3,7 @@ title: Da Nang dan Hoi An 4 Hari: Pantai, Bandar Lama dan Bukit Ba Na
 description: Itinerari 4 hari Da Nang dan Hoi An untuk pelancong Malaysia, merangkumi Pantai My Khe, Bukit Marmar, Ba Na Hills, bandar lama Hoi An yang tersenarai UNESCO, tiket masuk, pengangkutan dan makanan halal.
 category: destinasi
 image: da-nang-hoi-an-4-hari.jpg
-credit: Foto oleh Christophe95, CC BY-SA 4.0, melalui Wikimedia Commons
+credit: Foto oleh mailanmaik di Pixabay
 negara: Vietnam
 imageq: Hoi An lanterns night
 date: 2026-11-13

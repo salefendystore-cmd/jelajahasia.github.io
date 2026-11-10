@@ -3,7 +3,7 @@ title: China Bebas Visa untuk Rakyat Malaysia: Panduan Shanghai dan Beijing
 description: Panduan ke China selepas perjanjian bebas visa Malaysia-China, merangkumi syarat masuk 30 hari, itinerari Shanghai dan Beijing, keretapi laju, aplikasi pembayaran, internet dan makanan halal.
 category: destinasi
 image: china-bebas-visa-panduan-shanghai-beijing.jpg
-credit: Foto oleh King of Hearts, CC BY-SA 4.0, melalui Wikimedia Commons
+credit: Foto oleh Media_Breeze di Pixabay
 negara: China
 imageq: The Bund Shanghai skyline
 date: 2026-11-11

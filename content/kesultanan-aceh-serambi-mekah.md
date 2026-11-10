@@ -3,7 +3,7 @@ title: Kesultanan Aceh: Kisah Serambi Mekah di Hujung Sumatera
 description: Sejarah Kesultanan Aceh Darussalam, daripada kebangkitannya selepas kejatuhan Melaka, zaman kegemilangan Sultan Iskandar Muda, peranan sebagai pusat ilmu Islam hingga Perang Aceh, serta tempat bersejarah yang boleh dilawati di Banda Aceh.
 category: sejarah-budaya
 image: kesultanan-aceh-serambi-mekah.jpg
-credit: Foto oleh Si_Gam, CC BY-SA 3.0, melalui Wikimedia Commons
+credit: Foto oleh saifulmulia di Pixabay
 negara: Indonesia
 imageq: Baiturrahman Grand Mosque Banda Aceh
 date: 2026-11-12

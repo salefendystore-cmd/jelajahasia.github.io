@@ -3,7 +3,7 @@ title: Kad Ketibaan Digital di Asia: Panduan untuk Pelancong Malaysia
 description: Panduan kad ketibaan dan kebenaran perjalanan digital di Asia, termasuk TDAC Thailand, SG Arrival Card, Visit Japan Web, K-ETA Korea dan All Indonesia, dengan tempoh isian dan cara elak laman palsu.
 category: tips-travel
 image: kad-ketibaan-digital-di-asia.jpg
-credit: Foto oleh Exec8, CC BY-SA 4.0, melalui Wikimedia Commons
+credit: Foto oleh ClickerHappy di Pixabay
 negara: Thailand, Singapura, Jepun, Korea Selatan, Indonesia
 imageq: Suvarnabhumi Airport immigration
 date: 2026-11-11
