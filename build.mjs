@@ -12,7 +12,7 @@ const SITE = {
   name: 'Jelajah Asia',
   tagline: 'Teroka Asia, satu cerita pada satu masa.',
   url: process.env.SITE_URL || 'https://example.com',
-  email: 'hello@example.com',
+  email: process.env.SITE_EMAIL || 'hello@example.com', // WAJIB tukar kepada emel sebenar (atau set SITE_EMAIL)
   adsenseClient: '', // contoh: ca-pub-1234567890123456 (isi selepas AdSense lulus)
   analyticsId: '',   // contoh: G-XXXXXXXXXX
   // Pilihan Editor di halaman utama: nama fail artikel tanpa .md. Jika kosong/tidak sah, artikel terbaharu yang ada gambar digunakan.
@@ -41,7 +41,8 @@ function inline(t) {
   return esc(t)
     .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
     .replace(/\*(.+?)\*/g, '<em>$1</em>')
-    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, (m, txt, url) => url.startsWith('/')
+    // Pautan dalaman (/...) dibuka dalam tab sama; pautan luar (http...) dibuka di tab baharu dengan ikon ↗.
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, (m, txt, url) => /^https?:\/\//.test(url)
       ? `<a class="xl" href="${url}" target="_blank" rel="noopener">${txt}<span class="sr-only"> (dibuka di tab baharu)</span></a>`
       : `<a href="${url}">${txt}</a>`);
 }
@@ -234,8 +235,12 @@ p.addEventListener('click',function(e){if(e.target.closest('a'))set(false)});
 window.addEventListener('resize',function(){if(window.innerWidth>=900&&!p.hidden)set(false)});
 })();</script>`;
 
-function layout({ title, desc, path: p, body, active, type = 'website', jsonld = '', scripts = '' }) {
+function layout({ title, desc, path: p, body, active, type = 'website', jsonld = '', scripts = '', image = '' }) {
   const full = title === SITE.name ? `${SITE.name} – ${SITE.tagline}` : `${title} | ${SITE.name}`;
+  const img = image ? SITE.url + image : '';
+  const social = img
+    ? `<meta property="og:image" content="${img}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:locale" content="ms_MY"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="${img}">`
+    : `<meta property="og:locale" content="ms_MY"><meta name="twitter:card" content="summary">`;
   return `<!doctype html>
 <html lang="ms"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <script>document.documentElement.className+=' js'</script>
@@ -243,6 +248,7 @@ function layout({ title, desc, path: p, body, active, type = 'website', jsonld =
 <meta name="description" content="${esc(desc)}">
 <link rel="canonical" href="${SITE.url}${p}">
 <meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:type" content="${type}"><meta property="og:url" content="${SITE.url}${p}"><meta property="og:site_name" content="${SITE.name}">
+${social}<meta name="twitter:title" content="${esc(title)}"><meta name="twitter:description" content="${esc(desc)}">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230B2545'/%3E%3Ccircle cx='16' cy='16' r='7' fill='%2313A89E'/%3E%3C/svg%3E">
 <link rel="alternate" type="application/rss+xml" href="/rss.xml" title="${SITE.name}">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -271,8 +277,21 @@ ${GLOBAL_JS}${scripts}
 const adSlot = () => SITE.adsenseClient
   ? `<ins class="adsbygoogle" style="display:block" data-ad-client="${SITE.adsenseClient}" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle=window.adsbygoogle||[]).push({})</script>`
   : '';
-const cover = (a, cls, eager) => a.image ? `<img class="${cls}" src="${a.image}" alt="${esc(a.imageAlt || a.title)}" ${eager ? 'fetchpriority="high"' : 'loading="lazy"'} width="1200" height="630">` : '';
-const card = (a, note = '') => `<a class="card" href="${a.url}" data-negara="${a.negara.map(slugify).join(' ')}">${a.image ? cover(a, 'img') : `<div class="img g-${CATS[a.cat].c}">${esc(a.title.charAt(0))}</div>`}<div class="t"><span class="tag">${esc(CATS[a.cat].name)}</span><h3>${esc(a.title)}</h3><p>${esc(a.description)}</p>${note ? `<span class="note">${esc(note)}</span>` : ''}</div></a>`;
+// Gambar: guna versi WebP teroptimum (node optimize-images.mjs) jika ada, jika tidak gambar asal.
+// alt: imageAlt dari Pixabay ialah tag Inggeris ("a,  b,  c") — abaikan dan guna tajuk. Kad: alt kosong kerana tajuk sudah ada dalam pautan.
+const OPT_WIDTHS = [480, 800, 1200];
+const missingOpt = [];
+const hasOpt = a => a.imgName && fs.existsSync(path.join(ROOT, 'static', 'images', 'opt', `${a.imgName}-800.webp`));
+const altOf = a => (a.imageAlt && !/,\s/.test(a.imageAlt)) ? a.imageAlt : a.title;
+const imgTag = (a, cls, { eager = false, sizes = '(max-width:600px) 100vw, (max-width:900px) 50vw, 360px', alt = altOf(a) } = {}) => {
+  const load = eager ? 'fetchpriority="high"' : 'loading="lazy" decoding="async"';
+  if (!hasOpt(a)) return `<img class="${cls}" src="${a.image}" alt="${esc(alt)}" ${load} width="1200" height="630">`;
+  const o = w => `/images/opt/${a.imgName}-${w}.webp`;
+  return `<img class="${cls}" src="${o(800)}" srcset="${OPT_WIDTHS.map(w => `${o(w)} ${w}w`).join(', ')}" sizes="${sizes}" alt="${esc(alt)}" ${load} width="1200" height="630">`;
+};
+const ogImage = a => a && a.imgName && fs.existsSync(path.join(ROOT, 'static', 'images', 'og', `${a.imgName}.jpg`)) ? `/images/og/${a.imgName}.jpg` : '';
+const cover = (a, cls, eager) => a.image ? imgTag(a, cls, { eager, sizes: '(max-width:780px) 100vw, 700px' }) : '';
+const card = (a, note = '') => `<a class="card" href="${a.url}" data-negara="${a.negara.map(slugify).join(' ')}">${a.image ? imgTag(a, 'img', { alt: '' }) :`<div class="img g-${CATS[a.cat].c}">${esc(a.title.charAt(0))}</div>`}<div class="t"><span class="tag">${esc(CATS[a.cat].name)}</span><h3>${esc(a.title)}</h3><p>${esc(a.description)}</p>${note ? `<span class="note">${esc(note)}</span>` : ''}</div></a>`;
 
 // ---- Perkongsian dan suka (halaman artikel) ----
 const shareBlock = (a) => {
@@ -327,7 +346,8 @@ apply(sel.value,false);
 // Jika SITE_URL mempunyai sub-laluan (contoh GitHub Pages projek), awalkan semua pautan dalaman.
 const BASE = new URL(SITE.url).pathname.replace(/\/$/, '');
 const write = (p, c) => {
-  if (BASE && p.endsWith('.html')) c = c.replace(/(href|src)="\/(?!\/)/g, `$1="${BASE}/`);
+  if (BASE && p.endsWith('.html')) c = c.replace(/(href|src)="\/(?!\/)/g, `$1="${BASE}/`)
+    .replace(/srcset="([^"]*)"/g, (m, s) => `srcset="${s.replace(/(^|,\s*)\/(?!\/)/g, `$1${BASE}/`)}"`);
   const f = path.join(DIST, p); fs.mkdirSync(path.dirname(f), { recursive: true }); fs.writeFileSync(f, c);
 };
 fs.rmSync(DIST, { recursive: true, force: true });
@@ -345,8 +365,9 @@ const articles = fs.readdirSync(CONTENT).filter(f => f.endsWith('.md')).map(f =>
   const { html, headings } = md(body);
   const words = body.split(/\s+/).length;
   const negara = (meta.negara || '').split(',').map(x => x.trim()).filter(Boolean);
-  return { slug, url: `/${slug}/`, image: meta.image ? `/images/${meta.image}` : '', imageAlt: meta.imageAlt || '', credit: meta.credit || '', title: meta.title, description: meta.description, cat: meta.category, date: meta.date, html, headings, words, negara, penulis, penyemak: meta.penyemak || '', tarikhsemak: meta.penyemak ? (meta.tarikhsemak || '') : '' };
+  return { slug, url: `/${slug}/`, image: meta.image ? `/images/${meta.image}` : '', imgName: meta.image ? meta.image.replace(/\.[^.]+$/, '') : '',imageAlt: meta.imageAlt || '', credit: meta.credit || '', title: meta.title, description: meta.description, cat: meta.category, date: meta.date, html, headings, words, negara, penulis, penyemak: meta.penyemak || '', tarikhsemak: meta.penyemak ? (meta.tarikhsemak || '') : '' };
 }).filter(a => a.date <= today).sort((a, b) => b.date.localeCompare(a.date) || a.title.localeCompare(b.title));
+for (const a of articles) if (a.image && !hasOpt(a)) missingOpt.push(a.slug);
 
 // ---- Cadangan bacaan: destinasi sama dahulu, kemudian topik berkaitan, kategori sebagai sandaran ----
 const STOP = new Set('yang untuk dalam dengan tentang atau dari pada ini itu serta adalah akan juga lebih paling kepada oleh bagi antara selepas sebelum seperti agar supaya kerana boleh tidak anda kita kami mereka satu dua tiga semua setiap mana apa bagaimana kenapa panduan'.split(' '));
@@ -375,10 +396,10 @@ for (const a of articles) {
   const rel = relatedFor(a);
   const toc = a.headings.length > 2 ? `<nav class="toc" aria-label="Isi kandungan"><b>Dalam artikel ini</b>${a.headings.map(h => `<a href="#${h.id}">${esc(h.text)}</a>`).join('')}</nav>` : '';
   const au = AUTHORS[a.penulis];
-  const ld = `<script type="application/ld+json">${JSON.stringify({ '@context': 'https://schema.org', '@type': 'Article', headline: a.title, description: a.description, datePublished: a.date, author: { '@type': au.jenis === 'orang' ? 'Person' : 'Organization', name: au.nama, ...(hasProfile(a.penulis) ? { url: `${SITE.url}/penulis/${a.penulis}/` } : {}) }, publisher: { '@type': 'Organization', name: SITE.name } })}</script>`;
+  const ld = `<script type="application/ld+json">${JSON.stringify({ '@context': 'https://schema.org', '@type': 'Article', headline: a.title, description: a.description, datePublished: a.date, dateModified: a.tarikhsemak || a.date, mainEntityOfPage: SITE.url + a.url, ...(ogImage(a) ? { image: [SITE.url + ogImage(a)] } : {}), inLanguage: 'ms', author: { '@type': au.jenis === 'orang' ? 'Person' : 'Organization', name: au.nama, ...(hasProfile(a.penulis) ? { url: `${SITE.url}/penulis/${a.penulis}/` } : {}) }, publisher: { '@type': 'Organization', name: SITE.name } })}</script>`;
   const rev = a.penyemak ? `<div class="review">Disemak oleh ${authorName(a.penyemak)} <span class="role">(${esc(roleOf(a.penyemak))})</span>${a.tarikhsemak ? ` · semakan terakhir: ${fmtDate(a.tarikhsemak)}` : ''}</div>` : '';
   write(`${a.slug}/index.html`, layout({
-    title: a.title, desc: a.description, path: a.url, active: a.cat, type: 'article', jsonld: ld, scripts: ARTICLE_JS,
+    title: a.title, desc: a.description, path: a.url, active: a.cat, type: 'article', jsonld: ld, scripts: ARTICLE_JS, image: ogImage(a),
     body: `<div class="narrow"><article style="padding-top:28px">
 <div class="crumb"><a href="/">Utama</a> › <a href="/kategori/${a.cat}/">${esc(CATS[a.cat].name)}</a></div>
 <h1>${esc(a.title)}</h1>
@@ -415,9 +436,9 @@ ${profiles.map(id => authorCard(id, AUTHORS[id].jenis === 'meja' ? 'Pasukan' : '
 // Laman utama
 const catCount = k => articles.filter(a => a.cat === k).length;
 const featured = articles.find(a => a.slug === SITE.pilihanEditor) || articles.find(a => a.image) || articles[0];
-const featuredHtml = featured ? `<a class="feature" href="${featured.url}">${featured.image ? `<img class="fimg" src="${featured.image}" alt="${esc(featured.imageAlt || featured.title)}" fetchpriority="high" width="1200" height="630">` : `<div class="fimg g-${CATS[featured.cat].c}"></div>`}<div class="ft"><span class="tag">${esc(CATS[featured.cat].name)}</span><h3>${esc(featured.title)}</h3><p>${esc(featured.description)}</p><span class="more">Baca artikel →</span></div></a>` : '';
+const featuredHtml = featured ? `<a class="feature" href="${featured.url}">${featured.image ? imgTag(featured, 'fimg', { eager: true, alt: '', sizes: '(max-width:760px) 100vw, 600px' }) :`<div class="fimg g-${CATS[featured.cat].c}"></div>`}<div class="ft"><span class="tag">${esc(CATS[featured.cat].name)}</span><h3>${esc(featured.title)}</h3><p>${esc(featured.description)}</p><span class="more">Baca artikel →</span></div></a>` : '';
 write('index.html', layout({
-  title: SITE.name, desc: 'Panduan destinasi, tips jimat, sejarah, ekonomi dan kisah menarik dari seluruh Asia dalam Bahasa Melayu.', path: '/', scripts: '',
+  title: SITE.name, desc: 'Panduan destinasi, tips jimat, sejarah, ekonomi dan kisah menarik dari seluruh Asia dalam Bahasa Melayu.', path: '/', scripts: '', image: ogImage(featured),
   body: `<div class="hero"><div class="wrap"><h1>${esc(SITE.tagline)}</h1><p>Panduan destinasi, tips jimat, sejarah dan kisah menarik dari seluruh Asia, dalam Bahasa Melayu.</p><a class="btn" href="#terkini">Mula Membaca</a></div></div>
 ${featured ? `<section style="padding-bottom:12px"><div class="wrap"><div class="eyebrow">Pilihan Editor</div>${featuredHtml}</div></section>` : ''}
 <section><div class="wrap"><h2 class="s">Layari Mengikut Topik</h2><div class="cats">${Object.entries(CATS).map(([k, v]) => `<a class="cat" href="/kategori/${k}/">${esc(v.name)}<small>${catCount(k)} artikel</small></a>`).join('')}</div></div></section>
@@ -457,9 +478,13 @@ for (const [slug, [title, html]] of Object.entries(pages)) {
 
 
 // SEO
-write('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${['/', '/penulis/', ...profiles.map(id => `/penulis/${id}/`), ...Object.keys(CATS).map(k => `/kategori/${k}/`), ...articles.map(a => a.url)].map(u => `<url><loc>${SITE.url}${u}</loc></url>`).join('')}</urlset>`);
+const lastmod = Object.fromEntries(articles.map(a => [a.url, a.tarikhsemak || a.date]));
+lastmod['/'] = articles[0]?.date;
+write('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${['/', '/penulis/', ...profiles.map(id => `/penulis/${id}/`), ...Object.keys(CATS).map(k => `/kategori/${k}/`), ...articles.map(a => a.url), ...Object.keys(pages).map(s => `/${s}/`)].map(u => `<url><loc>${SITE.url}${u}</loc>${lastmod[u] ? `<lastmod>${lastmod[u]}</lastmod>` : ''}</url>`).join('')}</urlset>`);
 write('robots.txt', `User-agent: *\nAllow: /\nSitemap: ${SITE.url}/sitemap.xml\n`);
 write('rss.xml', `<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>${SITE.name}</title><link>${SITE.url}</link><description>${esc(SITE.tagline)}</description>${articles.slice(0, 30).map(a => `<item><title>${esc(a.title)}</title><link>${SITE.url}${a.url}</link><description>${esc(a.description)}</description><pubDate>${new Date(a.date).toUTCString()}</pubDate></item>`).join('')}</channel></rss>`);
 write('404.html', layout({ title: 'Halaman tidak dijumpai', desc: '404', path: '/404.html', body: `<div class="narrow" style="padding:80px 20px;text-align:center"><h1 style="font-family:Fraunces,serif;font-size:48px">404</h1><p>Halaman tidak dijumpai. <a href="/" style="color:var(--teal);text-decoration:underline">Kembali ke laman utama</a>.</p></div>` }));
 
 console.log(`Siap: ${articles.length} artikel diterbitkan (tarikh <= ${today}).`);
+if (/example\.com/.test(SITE.email)) console.warn('AMARAN: emel hubungan masih example.com. Tukar SITE.email dalam build.mjs atau set SITE_EMAIL.');
+if (missingOpt.length) console.warn(`AMARAN: ${missingOpt.length} gambar belum dioptimumkan. Jalankan: node optimize-images.mjs`);

@@ -18,7 +18,7 @@
 5. Kemas kini nilai `SITE_URL` kepada domain baharu.
 
 ## Tambah artikel
-Letak fail `.md` baharu dalam `content/` dengan tarikh terbit. Selepas push, site dibina semula. Setiap hari pada 06:05 pagi (waktu Malaysia) GitHub membina semula site secara automatik, jadi artikel berdasarkan tarikh akan terbit sendiri.
+Letak fail `.md` baharu dalam `content/` dengan tarikh terbit. Jika ada gambar baharu dalam `static/images/`, jalankan `node optimize-images.mjs` di Mac dahulu (perlu `brew install webp`) dan muat naik folder `static/images/opt/` dan `static/images/og/` bersama-sama. Selepas push, site dibina semula. Setiap hari pada 06:05 pagi (waktu Malaysia) GitHub membina semula site secara automatik, jadi artikel berdasarkan tarikh akan terbit sendiri.
 
 ## Selepas AdSense lulus
 Isi `adsenseClient` dan `analyticsId` di bahagian atas `build.mjs`, dan letak `ads.txt` dalam `static/`.
